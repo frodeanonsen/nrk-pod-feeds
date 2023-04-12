@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 11 Apr 2023 16:22:18 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Apr 2023 18:15:00 +0200</pubDate>
+    <lastBuildDate>Wed, 12 Apr 2023 16:22:47 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Apr 2023 18:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/egAmGW9DzfGuxiLmj11JQQnocqcVt7OTZaaGVLbNAaFg"/>
+    <item>
+      <title>Feelgood-bok om demens</title>
+      <description><![CDATA[Da faren til komiker Freddy Kjensmo fikk diagnosen demens, ble humor en viktig ventil i den krevende jobben det er å være pårørende. Det har blitt til boka "Må lære meg å melke kuer - En feelgood-historie fra demensavdelingen"]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/e4d50b1f-fbab-4537-9c8a-afc2d09c51fa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/e4d50b1f-fbab-4537-9c8a-afc2d09c51fa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:17</itunes:duration>
+      <pubDate>Wed, 12 Apr 2023 18:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Hvilke utfordringer skaper ChatGPT?</title>
       <description><![CDATA[Chat-roboten Chat-GPT blir forbudt i Italia, og nå kan også Tyskland komme til å følge etter. Hvilke utfordringer skaper kunstig intelligens for journalistikken? Andreas Wiese, vår faste mediekommentator her i Studio 2, forteller elleville historier.]]></description>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/studio_2/43814deb-deb1-42ba-a8cb-ff47c59c5134_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>10:08</itunes:duration>
       <pubDate>Fri, 31 Mar 2023 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>5080 Nyhetskontrollen: Det viktigste som skjedde i mars</title>
-      <description><![CDATA[Nyhetene flyr forbi og det kan være vanskelig å få med seg alt! Heldigvis kan satirikerne fra 5080 Nyhetskontrollen oppsummere måneden mars 2023 for oss. Her er månedens tre viktigste saker.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/35b7bdc6-37a7-4119-b5b9-03601c047084_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/35b7bdc6-37a7-4119-b5b9-03601c047084_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:22</itunes:duration>
-      <pubDate>Thu, 30 Mar 2023 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
