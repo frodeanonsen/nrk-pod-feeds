@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 08 Jun 2023 04:22:12 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Jun 2023 05:59:00 +0200</pubDate>
+    <lastBuildDate>Fri, 09 Jun 2023 04:21:58 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Jun 2023 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/q2KQ7Moyue9ANLOwimqC9ADISYTWtS3wsjIruI7GuZzA"/>
+    <item>
+      <title>Flykrasjet i Amazonas: Er barna ennå i live?</title>
+      <description><![CDATA[I flere uker har fire barn i alderen 11 måneder til 13 år vært savna etter en flystyrt. De befinner seg et sted dypt inne i jungelen i Amazonas. Og mens letemannskapet jobber på spreng, finner de stadig små tegn på at søskenflokken er i live. Hvordan har de klart å overleve?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/01eb4687-3e77-40a2-9c4a-c10629185ac3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/01eb4687-3e77-40a2-9c4a-c10629185ac3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:49</itunes:duration>
+      <pubDate>Fri, 09 Jun 2023 05:59:00 +0200</pubDate>
+    </item>
     <item>
       <title>Den brutale fornorskinga: Tvang, vald og skam</title>
       <description><![CDATA[I over 100 år utsette den norske stat minoritetsgrupper for systematisk undertrykking og tvang dei til å bli nordmenn. Samar, kvenar og skogfinnar mista språk, kultur og identitet. For første gong har det no blitt slått fast kva som eigentleg skjedde desse åra – som har blitt ein bekmørk del av norsk historie. Kva var det eigentleg staten gjorde?]]></description>
@@ -56,7 +64,7 @@
       <description><![CDATA[En sommerdag for to år siden ble livet til MMA-utøver Geir Kåre Nyland endra for alltid. Han skulle bare ta seg en rask dukkert på Sørenga i Oslo, men endte opp med brukket rygg – og en hverdag som rullestolbruker. Nå mener Geir Kåre at kommunen må ta sin del av skylda for det som skjedde. Men hvem er det egentlig som har ansvaret?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/cb477ce5-9e96-4f86-8c53-765af32510e1_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/cb477ce5-9e96-4f86-8c53-765af32510e1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:04</itunes:duration>
+      <itunes:duration>16:15</itunes:duration>
       <pubDate>Thu, 01 Jun 2023 05:59:00 +0200</pubDate>
     </item>
     <item>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/ca5a913e-66a6-4ec1-9f0c-5604ec3f131f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>24:48</itunes:duration>
       <pubDate>Mon, 29 May 2023 05:59:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Kan gåten i «Dødens dal» gi nye klimasvar?</title>
-      <description><![CDATA[På et fjell midt i det golde landskapet i Antarktis ble det nylig gjort en helt utrolig oppdagelse. For på et fjell fant forskere flere hundre tusen døde fugler, og rett ved fant de en svart dam som aldri fryser til is. Hva er det som egentlig har skjedd i området som kalles Dødens dal?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/6635ac6f-f65e-4b56-9755-7a7e97504ad0_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/6635ac6f-f65e-4b56-9755-7a7e97504ad0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>10:14</itunes:duration>
-      <pubDate>Fri, 26 May 2023 05:59:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

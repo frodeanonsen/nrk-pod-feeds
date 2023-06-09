@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 02 Jun 2023 04:22:15 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Jun 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 09 Jun 2023 04:22:15 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WoTNFSKFvwHbXe6DhR5xkAP9bLL5fMSPrNtGDl-bFJUw"/>
+    <item>
+      <title>Gjennombruddet</title>
+      <description><![CDATA[Kristin Waaktaar Opland er tobarnsmoren på over 40 år som plutselig ble veldig god til å løpe. I år har satt hun norsk rekord for 40-44 år på 5000 meter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/c0079c91-aae5-42ce-a203-7c8f3ca76155_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/c0079c91-aae5-42ce-a203-7c8f3ca76155_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:31:30</itunes:duration>
+      <pubDate>Fri, 09 Jun 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Manglende helsesertifikat og snuoperasjonen</title>
       <description><![CDATA[Norgesmester Mathilde Theisen innfridde ikke kravene til helsesertifikat og fikk startnekt. Det var flaut, men nå vil hun fortelle sin historie.]]></description>
@@ -85,16 +93,6 @@ Kristian og Jann sliter fortsatt med sykdom, men prøver å få opp humøret med
       <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/226efb9c-d733-4462-bc14-bb550cfa0ad9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:01:56</itunes:duration>
       <pubDate>Fri, 07 Apr 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Dopingdommen</title>
-      <description><![CDATA[Zane Robertson flyttet fra New Zealand til Kenya for å bli langdistanseløper. Nå er han dopingtatt, blakk og deprimert med selvmordstanker.
-
- ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/i_det_lange_loep/6b4b5c73-9a3a-4e18-a9b9-a70de58f9863_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/i_det_lange_loep/6b4b5c73-9a3a-4e18-a9b9-a70de58f9863_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:31:29</itunes:duration>
-      <pubDate>Fri, 31 Mar 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
