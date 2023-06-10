@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 08 Jun 2023 11:18:36 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Jun 2023 12:25:00 +0200</pubDate>
+    <lastBuildDate>Sat, 10 Jun 2023 11:18:07 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Jun 2023 13:12:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw"/>
+    <item>
+      <title>Solveig Kloppen / Niklas Baarli / Martha Leivestad</title>
+      <description><![CDATA[Er eksen til Sofie fortsatt på laget? PROBLEMER: Kaotisk kjærlighet på en ryddig plen / Hjelp, kjæresten min er dramaqueen / Når to i gjengen utestenger resten / Kristenkonservativ på kontoret / Pølsepromp / Av-invitere venn fra ferietur / Uventet vending på backpacking / Drømmer om exen (bokstavelig talt) / Hjelp, jeg har fått valp i gave / Er det nå det skal skje?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/bfb83268-c931-47db-ad8c-608fe1a4f8b7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/bfb83268-c931-47db-ad8c-608fe1a4f8b7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:13:02</itunes:duration>
+      <pubDate>Sat, 10 Jun 2023 13:12:00 +0200</pubDate>
+    </item>
     <item>
       <title>Mindre emosjonelt forvirra</title>
       <description><![CDATA[Søtnosene Live og Dr. Jones diskuterer rumpetroll, Vegards emosjonelle reise, og en liten fyllemail.]]></description>
@@ -82,15 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/5def9274-8659-45ec-9b9c-10b2d27834ed_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>02:15:16</itunes:duration>
       <pubDate>Sat, 13 May 2023 13:50:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Flytter Eira inn med bror og familie?</title>
-      <description><![CDATA[Oppdatering fra Eira – og en meget gooood fyllemail!
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/e1e73fa8-3035-48c2-bf07-ae64b961ca39_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/e1e73fa8-3035-48c2-bf07-ae64b961ca39_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:53</itunes:duration>
-      <pubDate>Tue, 09 May 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
