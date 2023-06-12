@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 12 Jun 2023 12:23:54 +0000</lastBuildDate>
-    <pubDate>Mon, 12 Jun 2023 14:12:00 +0200</pubDate>
+    <lastBuildDate>Mon, 12 Jun 2023 13:22:32 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Jun 2023 14:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g"/>
+    <item>
+      <title>Noe attåt: Amper kranglestemning</title>
+      <description><![CDATA[Karsten og Hani blir anklagd for å være elitist, Johannes blir angrepet for måten han uttaler snegl på, og gjengen mener Tete ikke er folkelig. Husk å gi din stemme på avstemningen i appen NRK Radio. Tilstede: Sofie, Karsten, Tete, Johannes og Hani.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/795cbd5f-c95b-4209-8a02-712be7247598_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/795cbd5f-c95b-4209-8a02-712be7247598_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:57</itunes:duration>
+      <pubDate>Mon, 12 Jun 2023 14:30:00 +0200</pubDate>
+    </item>
     <item>
       <title>Blåmandag</title>
       <description><![CDATA[Ingenting gikk som planlagt, men likevel ble det sending.]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/d31f702e-40c1-4f10-b3cf-62bca2aad288_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:03:41</itunes:duration>
       <pubDate>Tue, 06 Jun 2023 10:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Noe attåt: Vi kårer en vinner</title>
-      <description><![CDATA[Takk for nydelige mailer! Husk at du alltids kan nå oss på p3morgen@nrk.no <3 Tilstede: Tete, Adelina, Johannes, Hani og Karsten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/c79ca4bd-a308-46cd-9b47-07a88acdc277_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/c79ca4bd-a308-46cd-9b47-07a88acdc277_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:22</itunes:duration>
-      <pubDate>Mon, 05 Jun 2023 14:15:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
