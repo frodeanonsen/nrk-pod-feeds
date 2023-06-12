@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 05 Jun 2023 04:21:57 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Jun 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 12 Jun 2023 04:22:03 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA"/>
+    <item>
+      <title>Jonis Josefs dødsentusiasme</title>
+      <description><![CDATA[Jonis gleder seg mer over døden enn Martin hadde forutsett og det blir total uenighet om drømmen om evig liv. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/5b55afbb-8690-48e6-8f10-9c929c7c892b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/5b55afbb-8690-48e6-8f10-9c929c7c892b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:56</itunes:duration>
+      <pubDate>Mon, 12 Jun 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Jonas Bergland, på jobb med døden</title>
       <description><![CDATA[Hvordan er det best å overbringe et dødsbudskap? Og hvorfor vil Martin plutselig ha dr. Bergland som fastlege? ]]></description>
@@ -83,14 +91,6 @@ Trenger du noen å snakke med? Mental helses hjelpetelefon: 116 123. RUSinfo: 91
       <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/d7296942-c608-4fda-b83f-81b9b60f4703_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:17</itunes:duration>
       <pubDate>Mon, 10 Apr 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Tor-Håkon Håvardsen, begravelsesagenten </title>
-      <description><![CDATA[Om hva som skjer med oss etter døden, hvorfor man ikke bør dø på varmekabler, om kistebunnen som ga etter og utrolige historier fra et liv med de døde. Med landets mest tatoverte og triveligste begravelsesagent, Tor-Håkon Gabriel Håvardsen. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/a0ae162a-13d2-41c3-99e9-aee829e4bb4d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/a0ae162a-13d2-41c3-99e9-aee829e4bb4d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:01</itunes:duration>
-      <pubDate>Mon, 03 Apr 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

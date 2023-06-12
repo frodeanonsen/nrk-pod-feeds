@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 09 Jun 2023 04:21:58 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Jun 2023 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 12 Jun 2023 04:21:50 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Jun 2023 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/q2KQ7Moyue9ANLOwimqC9ADISYTWtS3wsjIruI7GuZzA"/>
+    <item>
+      <title>Håpet Kamala Harris: Ble hun en flopp? </title>
+      <description><![CDATA[Hun ble hun ble både hyllet og historisk da hun ble USAs første kvinnelige og flerkulturelle visepresident. Sammen med president Joe Biden skulle Kamala Harris gi håp for USA, og sette landet på en ny kurs. Men ett år inn i rollen ristet partifeller oppgitt på hodet, og Harris ble kåret som en av USAs mest upopulære visepresidenter gjennom alle tider. Hva skjedde med den politiske stjernen? Og hvorfor spekuleres det i at hun likevel kan bli landets neste president? 
+Gjest: Tove Bjørgaas]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/193a4502-e189-4438-8fde-092f1524557b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/193a4502-e189-4438-8fde-092f1524557b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:04</itunes:duration>
+      <pubDate>Mon, 12 Jun 2023 05:59:00 +0200</pubDate>
+    </item>
     <item>
       <title>Flykrasjet i Amazonas: Er barna ennå i live?</title>
       <description><![CDATA[I flere uker har fire barn i alderen 11 måneder til 13 år vært savna etter en flystyrt. De befinner seg et sted dypt inne i jungelen i Amazonas. Og mens letemannskapet jobber på spreng, finner de stadig små tegn på at søskenflokken er i live. Hvordan har de klart å overleve?]]></description>
@@ -82,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/c4beab2c-45b6-43e8-98c6-6268d0def547_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:30</itunes:duration>
       <pubDate>Tue, 30 May 2023 05:59:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Reprise: DeSantis: Fra Trumps fan til fiende</title>
-      <description><![CDATA[Nå er det klart: Ron DeSantis stiller som presidentkandidat i 2024. Før var han Trumps trofaste tilhenger, nå er han ekspresidentens argeste konkurrent. Hvem er han, og hvordan gikk de to fra venner til fiender? Reprise fra november 2022.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/ca5a913e-66a6-4ec1-9f0c-5604ec3f131f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/ca5a913e-66a6-4ec1-9f0c-5604ec3f131f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:48</itunes:duration>
-      <pubDate>Mon, 29 May 2023 05:59:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
