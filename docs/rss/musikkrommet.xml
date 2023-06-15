@@ -7,10 +7,22 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 08 Jun 2023 04:22:30 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Jun 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 15 Jun 2023 06:22:15 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/FR6kyC3yBkrXZT2C9pPaPgkLjja1tQ9GbtqeYH3hIrfA"/>
+    <item>
+      <title>Röyksopp: Menneskene bak maskinen</title>
+      <description><![CDATA[Röyksopp har fra de møttes som kids i 1988 nerdet på synthene, og med det blitt noen av våre største verdensstjerner. I fjor ga de ut sin første utgivelse på åtte år - et ambisiøst trippelalbum. Men mystikken er tykkere rundt hitmaskinen enn noen gang.
+
+PS: Lørdag 17. juni kan du se blant annet Röyksopp i den nye dokumentarserien "Ekstase - historien om nordisk elektronika" i NRK TV.
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/b021c559-249b-4be3-912e-fe7f387122d5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/b021c559-249b-4be3-912e-fe7f387122d5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:21</itunes:duration>
+      <pubDate>Thu, 15 Jun 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Tina Turner: Dronningen av rock 'n' roll</title>
       <description><![CDATA[Tina Turner var en foregangskvinne i musikkhistorien og ble en levende legende og et ikon. Anna snakker med Ragna Nordenborg for å finne ut hvordan hun ble det.]]></description>
@@ -82,14 +94,6 @@
       <enclosure url="https://podkast.nrk.no/fil/musikkrommet/d07ea24f-e28b-43b9-a18d-fef92eccd8e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>47:13</itunes:duration>
       <pubDate>Thu, 13 Apr 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Broiler: Hiten som endret afterski</title>
-      <description><![CDATA[Påske betyr party for mange, og Anna prater med gutta i Broiler for å finne ut om deres hitlåt «Afterski» var med å endre musikken som spilles på nettopp afterski. For har ikke den musikken fått en så tydelig stil at vi kan kalle det en helt egen sjanger? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/musikkrommet/1d6ace38-dc8f-448b-809f-6e5d9463c75e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/musikkrommet/1d6ace38-dc8f-448b-809f-6e5d9463c75e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:36</itunes:duration>
-      <pubDate>Thu, 06 Apr 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
