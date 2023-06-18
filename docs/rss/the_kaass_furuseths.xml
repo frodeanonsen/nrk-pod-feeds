@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Sun, 11 Jun 2023 04:21:38 +0000</lastBuildDate>
-    <pubDate>Sun, 11 Jun 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 18 Jun 2023 04:21:59 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Jun 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ"/>
+    <item>
+      <title>Else besøker: Christine Koht</title>
+      <description><![CDATA[Hvordan går det med Christine Koht? Else drar til Tønsberg på besøk i et rødt hus med rosa dør. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/366befa1-26ca-431c-bd1c-26a4fb727ce8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/366befa1-26ca-431c-bd1c-26a4fb727ce8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:02</itunes:duration>
+      <pubDate>Sun, 18 Jun 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Else besøker: Julie Bergan </title>
       <description><![CDATA[Julie Bergan forteller om første kyss med kjæresten, om en tissetrengt tur til Kina, og om farens musikkskills, når Else kommer på besøk. ]]></description>
@@ -85,14 +93,6 @@
       <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/4539defb-32a4-4d7b-b159-9b661923bf3b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>43:33</itunes:duration>
       <pubDate>Sun, 07 May 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Helsespesial: Tine Sundfør</title>
-      <description><![CDATA[Ernæring er tema når Else besøker klinisk ernæringsfysiolog Tine Sundfør hjemme i Asker. Se "Helsekost Furuseth" i NRK TV!  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/the_kaass_furuseths/24d2c473-aa90-4778-b207-563da6f75d6e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/the_kaass_furuseths/24d2c473-aa90-4778-b207-563da6f75d6e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:23</itunes:duration>
-      <pubDate>Wed, 03 May 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
