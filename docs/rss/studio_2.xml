@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 15 Jun 2023 17:20:29 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Jun 2023 18:30:00 +0200</pubDate>
+    <lastBuildDate>Wed, 21 Jun 2023 16:22:15 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Jun 2023 18:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/egAmGW9DzfGuxiLmj11JQQnocqcVt7OTZaaGVLbNAaFg"/>
+    <item>
+      <title>Støvsamler - Dan Bjørke</title>
+      <description><![CDATA[Onsdag er støvsamlertid i Studio 2, og vi har kommet til sesongens siste: Dan Bjørke, leder for Oslo Pride, får donere en gjenstand til vår store samling.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/d00b6a98-7ade-45be-bb65-3c3352d36dd9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/d00b6a98-7ade-45be-bb65-3c3352d36dd9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:57</itunes:duration>
+      <pubDate>Wed, 21 Jun 2023 18:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Fysikk og biologi i superheltfilmen The Flash</title>
       <description><![CDATA[Superheltfilmen The Flash hadde premiere i går, om den lynraske superhelten som kan løpe nesten like fort som lysets hastighet, også mellom ulike tider. Men hvordan går dette an? Fysiker Vidar Skogvoll og biolog Even Garvang, fra podkasten "Under Kappa" forklarer.]]></description>
@@ -28,19 +36,19 @@
       <pubDate>Wed, 14 Jun 2023 18:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Énsakspartienes inntog i politikken</title>
-      <description><![CDATA[Med akuttsykehus til Alta som fanesak, fikk det nyoppstarta partiet Pasientfokus 13 prosent av stemmene i Finnmark i 2021, og en plass på Stortinget. Nesten halvveis i stortingsperioden spør vi hvilken innflytelse ensakspartier som Pasientfokus har i norsk politikk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/cc6c9321-ea63-4ce7-93db-02f14ac2b18b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/cc6c9321-ea63-4ce7-93db-02f14ac2b18b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:54</itunes:duration>
-      <pubDate>Wed, 14 Jun 2023 18:00:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Er det lov å klage over sommeren?</title>
       <description><![CDATA[Vi er midtveis i juni, den første sommermåneden, og det varsles hetebølge over store deler av landet. Men er vi programforplikta til å synes sommer er topp her i nord? Hva hvis du synes juni bare er stress og altfor varm? Vi spør psykolog Johanne Refseth, kjent som psykolog.med.sovepose.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/6c3169dd-38a6-43d7-85f5-74bb07e64978_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/studio_2/6c3169dd-38a6-43d7-85f5-74bb07e64978_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:06</itunes:duration>
+      <pubDate>Wed, 14 Jun 2023 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Énsakspartienes inntog i politikken</title>
+      <description><![CDATA[Med akuttsykehus til Alta som fanesak, fikk det nyoppstarta partiet Pasientfokus 13 prosent av stemmene i Finnmark i 2021, og en plass på Stortinget. Nesten halvveis i stortingsperioden spør vi hvilken innflytelse ensakspartier som Pasientfokus har i norsk politikk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/cc6c9321-ea63-4ce7-93db-02f14ac2b18b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/cc6c9321-ea63-4ce7-93db-02f14ac2b18b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:54</itunes:duration>
       <pubDate>Wed, 14 Jun 2023 18:00:00 +0200</pubDate>
     </item>
     <item>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/studio_2/8c29b146-488f-4fee-8dc0-76d2ceb301d2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>13:58</itunes:duration>
       <pubDate>Fri, 09 Jun 2023 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Måkespy kan gi svar på klimagåte i Antarktis</title>
-      <description><![CDATA[Eldgammelt måkespy kan gi menneskeheten svar på hvordan klimaet her på jorda har utviklet seg gjennom 50.000 år. I Studio 2 får du høre hvordan fuglenes etterlatenskaper i Antarktis kan fungere som en klimadagbok.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/8cbd321a-9597-49bf-a14f-279f2c6ddc03_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/8cbd321a-9597-49bf-a14f-279f2c6ddc03_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:22</itunes:duration>
-      <pubDate>Thu, 08 Jun 2023 18:45:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
