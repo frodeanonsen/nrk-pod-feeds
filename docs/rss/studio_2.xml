@@ -7,10 +7,34 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 21 Jun 2023 16:22:15 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Jun 2023 18:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 22 Jun 2023 16:22:30 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Jun 2023 18:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/egAmGW9DzfGuxiLmj11JQQnocqcVt7OTZaaGVLbNAaFg"/>
+    <item>
+      <title>5080 Nyhetskontrollen oppsummerer våren</title>
+      <description><![CDATA[Satirikerne Sturle Vik Pedersen og Markus Gaupås Johansen får med seg alt som skjer av nyheter og velger ut vårens tre viktigste hendelser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/b1f16620-41c9-40df-b97d-e88270a8725f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/b1f16620-41c9-40df-b97d-e88270a8725f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:13</itunes:duration>
+      <pubDate>Thu, 22 Jun 2023 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Er det greit med shorts på jobben</title>
+      <description><![CDATA[Shortsen er et elska og omdiskutert plagg om sommeren - når er det greit å dra på seg kortbuksene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/577f1bb0-2e71-4344-b7bb-0552b938840c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/577f1bb0-2e71-4344-b7bb-0552b938840c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:50</itunes:duration>
+      <pubDate>Wed, 21 Jun 2023 18:03:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>En 30 år lang kamp for mangfold på teaterscenen</title>
+      <description><![CDATA[Cliff Moustache er mannen back Nordic Black Theatre og har jobbet for større mangfold ved norske teaterscener i over 30 år. Nå har han fått Heddakomiteens ærespris.  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/858cbd24-c972-42a8-b641-73e547064c73_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/858cbd24-c972-42a8-b641-73e547064c73_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:40</itunes:duration>
+      <pubDate>Wed, 21 Jun 2023 18:01:00 +0200</pubDate>
+    </item>
     <item>
       <title>Støvsamler - Dan Bjørke</title>
       <description><![CDATA[Onsdag er støvsamlertid i Studio 2, og vi har kommet til sesongens siste: Dan Bjørke, leder for Oslo Pride, får donere en gjenstand til vår store samling.]]></description>
@@ -28,11 +52,11 @@
       <pubDate>Thu, 15 Jun 2023 18:30:00 +0200</pubDate>
     </item>
     <item>
-      <title>Støvsamler'n: </title>
-      <description><![CDATA[I dag klokka 12 hylte det både i tyfoner og mobiltelefoner over hele landet. Direktøren for det hele, Elisabeth Aarsæther, kommer til oss med en gjenstand hun ikke trenger mer]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/48754998-eee1-46eb-a7fe-983257f4d0c3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/48754998-eee1-46eb-a7fe-983257f4d0c3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:38</itunes:duration>
+      <title>Énsakspartienes inntog i politikken</title>
+      <description><![CDATA[Med akuttsykehus til Alta som fanesak, fikk det nyoppstarta partiet Pasientfokus 13 prosent av stemmene i Finnmark i 2021, og en plass på Stortinget. Nesten halvveis i stortingsperioden spør vi hvilken innflytelse ensakspartier som Pasientfokus har i norsk politikk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/cc6c9321-ea63-4ce7-93db-02f14ac2b18b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/cc6c9321-ea63-4ce7-93db-02f14ac2b18b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:54</itunes:duration>
       <pubDate>Wed, 14 Jun 2023 18:00:00 +0200</pubDate>
     </item>
     <item>
@@ -44,11 +68,11 @@
       <pubDate>Wed, 14 Jun 2023 18:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Énsakspartienes inntog i politikken</title>
-      <description><![CDATA[Med akuttsykehus til Alta som fanesak, fikk det nyoppstarta partiet Pasientfokus 13 prosent av stemmene i Finnmark i 2021, og en plass på Stortinget. Nesten halvveis i stortingsperioden spør vi hvilken innflytelse ensakspartier som Pasientfokus har i norsk politikk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/cc6c9321-ea63-4ce7-93db-02f14ac2b18b_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/cc6c9321-ea63-4ce7-93db-02f14ac2b18b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:54</itunes:duration>
+      <title>Støvsamler'n: </title>
+      <description><![CDATA[I dag klokka 12 hylte det både i tyfoner og mobiltelefoner over hele landet. Direktøren for det hele, Elisabeth Aarsæther, kommer til oss med en gjenstand hun ikke trenger mer]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/48754998-eee1-46eb-a7fe-983257f4d0c3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/48754998-eee1-46eb-a7fe-983257f4d0c3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:38</itunes:duration>
       <pubDate>Wed, 14 Jun 2023 18:00:00 +0200</pubDate>
     </item>
     <item>
@@ -66,31 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/studio_2/0d79228d-5993-4ca6-8122-c092e32b8d35_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>11:53</itunes:duration>
       <pubDate>Tue, 13 Jun 2023 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Antall atomvåpen øker</title>
-      <description><![CDATA[Hvorfor øker antallet atomvåpen i verden, samtidig som atomnedrustningen går sin gang? Kjølv Egeland forsker på internasjonal sikkerhet ved Sciences Po i Paris, med atomvåpenpolitikk og nedrusting som spesialfelt, og er tilknyttet Folkerettsinstituttet, og forklarer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/e95e417c-3457-48ec-96b9-fe0ea517f9dc_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/e95e417c-3457-48ec-96b9-fe0ea517f9dc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>10:51</itunes:duration>
-      <pubDate>Mon, 12 Jun 2023 18:01:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hvem var Silvio Berlusconi?</title>
-      <description><![CDATA[Han var Italias lengstsittende statsminister og ble kalt landets farligste mann. Hvem var mediemogulen, forretningsmannen og politikeren Silvio Berlusconi?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/1b5addf8-d1a3-4ac8-bc58-d2fa94182a70_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/1b5addf8-d1a3-4ac8-bc58-d2fa94182a70_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:47</itunes:duration>
-      <pubDate>Mon, 12 Jun 2023 10:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Trenger vi klovnen?</title>
-      <description><![CDATA[Viggo Venn, klovnen fra Kongsberg, vant finalen av "Britain's Got Talent" med sine overdrevent mange refleksvester. Hva er det med klovnen som både underholder, fascinerer og - for noen - skremmer? Og trenger vi denne figuren?
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/8c29b146-488f-4fee-8dc0-76d2ceb301d2_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/8c29b146-488f-4fee-8dc0-76d2ceb301d2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:58</itunes:duration>
-      <pubDate>Fri, 09 Jun 2023 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
