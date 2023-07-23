@@ -7,10 +7,20 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 19 Jul 2023 04:23:01 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 23 Jul 2023 04:21:37 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q"/>
+    <item>
+      <title>En robot forteller om overgrep</title>
+      <description><![CDATA[Et forskerteam har forsøkt å gjenskape hvordan skadede barn snakker -for å lære opp omsorgspersonell i vanskelige samtaler med barn. 
+(Gjenhør fra 2022)
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d4339674-4604-4eb8-8c63-8a3583748ca3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/d4339674-4604-4eb8-8c63-8a3583748ca3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:03</itunes:duration>
+      <pubDate>Sun, 23 Jul 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Grisen - litt som oss?</title>
       <description><![CDATA[Hva er likheten mellom gris og menneske? Kristoffer tok seg jobb som grisebonde for å finne det ut. 
@@ -88,16 +98,6 @@
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/40951e98-2a48-4ed2-b0bc-c447faa2dba7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>33:14</itunes:duration>
       <pubDate>Mon, 19 Jun 2023 06:01:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Mine tre uker i koma (1:2 -Oppvåkningen)</title>
-      <description><![CDATA[Livet til 43 år gamle Ellen gikk på skinner.  Men så brøt kroppen hennes plutselig sammen, og hun måtte raskt legges i kunstig koma. 
-Her får du høre hvor brutalt det var å våkne. 
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/667cd9ee-fc51-4978-b08e-2052316fb97c_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/667cd9ee-fc51-4978-b08e-2052316fb97c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:08</itunes:duration>
-      <pubDate>Mon, 19 Jun 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
