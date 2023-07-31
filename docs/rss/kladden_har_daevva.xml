@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 24 Jul 2023 04:22:09 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Jul 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 31 Jul 2023 04:21:52 +0000</lastBuildDate>
+    <pubDate>Mon, 31 Jul 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA"/>
+    <item>
+      <title>Dævva spesial: Live Nelvik</title>
+      <description><![CDATA[Telles hvithai i VR som en nær døden-opplevelse? Egentlig? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/787e4de4-9bbc-46af-ae3b-d76999b9f168_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/787e4de4-9bbc-46af-ae3b-d76999b9f168_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:37</itunes:duration>
+      <pubDate>Mon, 31 Jul 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Dævva spesial: Dag Sørås</title>
       <description><![CDATA[Hva skal til for å nesten bli likvidert av en gjeng soldater som ikke liker vitsen din? ]]></description>
@@ -83,14 +91,6 @@
       <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/114ac608-5204-4acb-83c7-01f3022103e0_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:17</itunes:duration>
       <pubDate>Mon, 29 May 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Fetishas spøkelser og hissige gangstere</title>
-      <description><![CDATA[Fetisha Williams hadde ett spørsmål da frisørkunden rettet en pistol mot henne. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kladden_har_daevva/7d9779b3-705f-4d21-a515-3d3015187691_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/7d9779b3-705f-4d21-a515-3d3015187691_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:24</itunes:duration>
-      <pubDate>Mon, 22 May 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
