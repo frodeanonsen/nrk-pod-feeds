@@ -2,15 +2,23 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>De 10 siste fra Burde vært pensum</title>
-    <link>https://sindrel.github.io/nrk-pod-feeds</link>
+    <link>https://frodeanonsen.github.io/nrk-pod-feeds</link>
     <description>Uoffisiell feed med de siste 10 episodene fra podkasten Burde vært pensum. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/burde_vaert_pensum for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 27 Feb 2023 05:27:05 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Feb 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 14 Aug 2023 04:21:47 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA"/>
+    <item>
+      <title>Hva er lykke?</title>
+      <description><![CDATA[Vi elsker å være lykkelige, men hva er det? Lege Kaveh Rashidi forklarer lykke og hva som skal til for å bli lykkelig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/9cfea767-8932-422a-896a-08768610ffaa_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/9cfea767-8932-422a-896a-08768610ffaa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:14</itunes:duration>
+      <pubDate>Mon, 14 Aug 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Er stress egentlig farlig?</title>
       <description><![CDATA[Stress er vår tids største “bad guy” Psykologspesialist Henrik Børsting Jacobsen gir deg tips om hvordan giftig stress kan bli en superkraft. ]]></description>
@@ -84,14 +92,6 @@
       <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/77d539b4-d585-48de-a135-8e520bbafdb1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>26:21</itunes:duration>
       <pubDate>Mon, 02 Jan 2023 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Liket etter døden</title>
-      <description><![CDATA[Patolog Line Aas Sandnes tar deg med på obduksjon for å forklare hva som skjer med kroppen etter at du dør. Medvirkende: Camilla Holten Gidske og Rune Sem.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/burde_vaert_pensum/7a32b906-2cb8-4fe5-bc58-b5f0723f24ee_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/burde_vaert_pensum/7a32b906-2cb8-4fe5-bc58-b5f0723f24ee_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:19</itunes:duration>
-      <pubDate>Mon, 17 Oct 2022 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
