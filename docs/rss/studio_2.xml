@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 14 Aug 2023 16:22:03 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Aug 2023 18:01:00 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Aug 2023 16:22:27 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Aug 2023 18:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg"/>
+    <item>
+      <title>Detektimen blir musikal</title>
+      <description><![CDATA[Detektimen samlet det norske folk rundt fjernsynet hver fredag, helt fra NRK TVs spede barndom i 1960. Nå blir fredagskveldenes mordgåter teater. Detektimen - en kriminalmusikal har premiere på Riksteatret 24. august]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/9b97f4da-2a5c-4c99-a181-6fc2030e3617_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/9b97f4da-2a5c-4c99-a181-6fc2030e3617_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:08</itunes:duration>
+      <pubDate>Tue, 15 Aug 2023 18:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Ukrainske oligarker</title>
       <description><![CDATA[Hvor mye makt har oligarken som hjalp Zelensky inn i presidentpalasset, og andre ukrainske milliardærer i dagens krigsherjede Ukraina?]]></description>
@@ -18,6 +26,14 @@
       <enclosure url="https://podkast.nrk.no/fil/studio_2/bb1fd88d-b66d-473e-81ff-2da8c567bb9b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>09:42</itunes:duration>
       <pubDate>Mon, 14 Aug 2023 18:01:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Drømmen om Europa: de unge pakistanerne drar</title>
+      <description><![CDATA[Rekordmange flyktninger og migranter risikerer livet ved å ta sjøveien til Europa. Mange av dem er unge pakistanere. Hvorfor forlater de landet sitt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/b4561b1b-2e13-4f56-82cc-4931d87babec_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/b4561b1b-2e13-4f56-82cc-4931d87babec_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:39</itunes:duration>
+      <pubDate>Mon, 14 Aug 2023 18:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Challenge for en god sak</title>
@@ -74,22 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/studio_2/ec074145-e999-4298-b855-a7e236a3dd58_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>14:37</itunes:duration>
       <pubDate>Thu, 15 Jun 2023 18:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Støvsamler'n: </title>
-      <description><![CDATA[I dag klokka 12 hylte det både i tyfoner og mobiltelefoner over hele landet. Direktøren for det hele, Elisabeth Aarsæther, kommer til oss med en gjenstand hun ikke trenger mer]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/48754998-eee1-46eb-a7fe-983257f4d0c3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/48754998-eee1-46eb-a7fe-983257f4d0c3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:38</itunes:duration>
-      <pubDate>Wed, 14 Jun 2023 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Er det lov å klage over sommeren?</title>
-      <description><![CDATA[Vi er midtveis i juni, den første sommermåneden, og det varsles hetebølge over store deler av landet. Men er vi programforplikta til å synes sommer er topp her i nord? Hva hvis du synes juni bare er stress og altfor varm? Vi spør psykolog Johanne Refseth, kjent som psykolog.med.sovepose.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/6c3169dd-38a6-43d7-85f5-74bb07e64978_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/6c3169dd-38a6-43d7-85f5-74bb07e64978_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:06</itunes:duration>
-      <pubDate>Wed, 14 Jun 2023 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
