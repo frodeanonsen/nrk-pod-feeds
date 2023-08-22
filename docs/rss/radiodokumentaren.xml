@@ -1,47 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 4 siste fra Historier fra virkeligheten</title>
+    <title>De 1 siste fra Historier fra virkeligheten</title>
     <link>https://frodeanonsen.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 4 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 1 episodene fra podkasten Historier fra virkeligheten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radiodokumentaren for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 25 May 2023 07:19:01 +0000</lastBuildDate>
-    <pubDate>Thu, 25 May 2023 06:04:00 +0200</pubDate>
+    <lastBuildDate>Tue, 22 Aug 2023 13:21:37 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Aug 2023 14:50:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA"/>
     <item>
-      <title>Hemmeligheten (1:4)</title>
-      <description><![CDATA[En livlig familie lever et godt og aktivt liv på Ås. Men en dag får eldstejenta Selma (9) vite om den mørke hemmeligheten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/48a2254f-1782-401f-978d-14e7604cf326_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/48a2254f-1782-401f-978d-14e7604cf326_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:52</itunes:duration>
-      <pubDate>Thu, 25 May 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Tre fremmede (2:4)</title>
-      <description><![CDATA[Grytidlig en morgen står Selma (12) og lager frokost til familien. Så oppdager hun tre fremmede, som er på vei mot huset. De skal hente faren hennes.  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/ef1e22d7-c5fe-4230-afc1-f100b27f8d26_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/ef1e22d7-c5fe-4230-afc1-f100b27f8d26_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:50</itunes:duration>
-      <pubDate>Thu, 25 May 2023 06:01:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Istanbul (3:4)</title>
-      <description><![CDATA[Selmas pappa Ahmad lever fortsatt livet sitt i Lofoten, men bare på skjerm. Fysisk befinner han seg 4500 kilometer unna. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/a64c5347-9e45-4eb8-b004-5eecd483211e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/a64c5347-9e45-4eb8-b004-5eecd483211e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:35</itunes:duration>
-      <pubDate>Thu, 25 May 2023 06:03:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Bak fjell og hav (4:4)</title>
-      <description><![CDATA[I flere år har Selma og pappa Ahmad planlagt konfirmasjonen til Selma. Men den blir ikke som de hadde tenkt. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/73853a20-ead4-4891-b02b-688df0e8d81e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/73853a20-ead4-4891-b02b-688df0e8d81e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:39</itunes:duration>
-      <pubDate>Thu, 25 May 2023 06:04:00 +0200</pubDate>
+      <title>Kommer i NRK Radio: Da staten ranet jødene</title>
+      <description><![CDATA[Under andre verdenskrig tar nazistene alt jødene i Norge eier. Etter krigen kjemper de overlevende for å verdiene tilbake, uten hjelp fra staten. I NRK Radio fra 23.08.2023.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/8eae5745-e90f-439a-8061-5922f2636abc_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/8eae5745-e90f-439a-8061-5922f2636abc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03</itunes:duration>
+      <pubDate>Tue, 22 Aug 2023 14:50:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
