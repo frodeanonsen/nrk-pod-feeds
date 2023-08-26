@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 24 Aug 2023 04:21:21 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Aug 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 26 Aug 2023 04:20:59 +0000</lastBuildDate>
+    <pubDate>Sat, 26 Aug 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q"/>
+    <item>
+      <title>Hvofor finner så mange Gud i 2023?</title>
+      <description><![CDATA[Flere tusen samles i idrettshaller der de i fellesskap opplever at Gud «vekker» dem. Hvorfor skjer dette akkurat nå?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e73057a8-8c2d-45eb-a18f-5cff712ec2e1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e73057a8-8c2d-45eb-a18f-5cff712ec2e1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:09</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 06:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Hvorfor øker seksualisert vold blant unge?</title>
       <description><![CDATA[Flere unge oppgir å ha blitt utsatt for grove seksuelle krenkelser. Hvorfor skjer det og hva gjør vi? ]]></description>
@@ -91,15 +99,6 @@
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0f41706d-1858-4c7f-9349-6c05ad87274e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>37:37</itunes:duration>
       <pubDate>Wed, 02 Aug 2023 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hvor brukes ansiktsgjenkjenning i Norge?</title>
-      <description><![CDATA[Kan en norsk fotoboks som gir deg fartsbot ..også kjenne igjen hvem du er utifra hvordan du ser ut i ansiktet? 
-(Gjenhør fra 2021)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/1edabefa-9bce-4f93-814a-287cfe8e2da5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/1edabefa-9bce-4f93-814a-287cfe8e2da5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:10</itunes:duration>
-      <pubDate>Sun, 30 Jul 2023 06:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
