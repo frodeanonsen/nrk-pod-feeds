@@ -7,17 +7,25 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Fri, 25 Aug 2023 12:23:53 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Aug 2023 14:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Aug 2023 16:22:54 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Aug 2023 18:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg"/>
     <item>
-      <title>Drømmen om Europa: en flyktning forteller</title>
-      <description><![CDATA[Rekordmange flyktninger og migranter risikerer nå livet på en farefull vei til Europa. Vi snakker med en av dem som flykta fra Syria, overlevde turen over Middelhavet, og har greid å skape seg et liv i Norge.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/74d7c25e-f361-4a82-91c0-f375349c108e_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/74d7c25e-f361-4a82-91c0-f375349c108e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:51</itunes:duration>
-      <pubDate>Fri, 25 Aug 2023 14:00:00 +0200</pubDate>
+      <title>Fleinsopp i terapi</title>
+      <description><![CDATA[En regntung sommer betyr en sterk soppsesong. Da er det viktig å se til at du ikke får med deg noen giftige sopper i kurven. Likevel er det noen som mener at én av disse giftige soppene kan ha stor positiv effekt på helsen din, dersom det gjøres riktig. Men hva kan fleinsopp behandle, og hvilke bivirkninger vet man om?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/a98aabd1-35bd-4e86-b176-0cbf3e775558_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/a98aabd1-35bd-4e86-b176-0cbf3e775558_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:31</itunes:duration>
+      <pubDate>Mon, 28 Aug 2023 18:01:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Valgomatens historie</title>
+      <description><![CDATA[Det kan være vanskelig å velge parti og ha tid til å sette deg ordentlig inn i sakene. Da kan det være lett å ty til valgomaten, så kan den velge for deg. Men når begynte vi egentlig med valgomater, og hva slags innvirkning har det hatt på politikken?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/515de816-45ea-40a4-a841-c5716eb8b9d5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/515de816-45ea-40a4-a841-c5716eb8b9d5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:51</itunes:duration>
+      <pubDate>Mon, 28 Aug 2023 18:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Vi adopterer Ullensvang: bråk om gondol</title>
@@ -25,6 +33,14 @@
       <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/158bc503-c7d0-4937-81eb-c92a242e2b07_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/studio_2/158bc503-c7d0-4937-81eb-c92a242e2b07_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:31</itunes:duration>
+      <pubDate>Fri, 25 Aug 2023 14:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Drømmen om Europa: en flyktning forteller</title>
+      <description><![CDATA[Rekordmange flyktninger og migranter risikerer nå livet på en farefull vei til Europa. Vi snakker med en av dem som flykta fra Syria, overlevde turen over Middelhavet, og har greid å skape seg et liv i Norge.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/74d7c25e-f361-4a82-91c0-f375349c108e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/74d7c25e-f361-4a82-91c0-f375349c108e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:51</itunes:duration>
       <pubDate>Fri, 25 Aug 2023 14:00:00 +0200</pubDate>
     </item>
     <item>
@@ -78,22 +94,6 @@
       <enclosure url="https://podkast.nrk.no/fil/studio_2/a20b850e-e845-4f83-93a2-748e98495c76_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>13:35</itunes:duration>
       <pubDate>Wed, 23 Aug 2023 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Støvsamleren: Anne Felberg</title>
-      <description><![CDATA[OscarsborgOperaen markerer sitt 25-årsjubileum med den nyskrevne operaen Kommandanten. Jubileet markerer også operasjef og grunnlegger Anne Felbergs siste sesong på festningen utafor Drøbak]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/09771bf9-22ff-4228-8995-9c71253c1f28_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/09771bf9-22ff-4228-8995-9c71253c1f28_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:35</itunes:duration>
-      <pubDate>Wed, 23 Aug 2023 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hvem bestemmer egentlig i kommunen?</title>
-      <description><![CDATA[I høst kan du være med på å bestemme hvem som blir folkevalgt i kommunen din de neste fire åra. Men visste du at det ikke nødvendigvis er de politikerne du velger som bestemmer? Kanskje er det folk som ikke er på valg som virkelig sitter med makta? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/39bdba1b-e341-42e4-a148-a16a7e5982e9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/39bdba1b-e341-42e4-a148-a16a7e5982e9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:50</itunes:duration>
-      <pubDate>Tue, 22 Aug 2023 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
