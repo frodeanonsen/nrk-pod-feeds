@@ -7,10 +7,26 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 28 Aug 2023 16:22:54 +0000</lastBuildDate>
-    <pubDate>Mon, 28 Aug 2023 18:01:00 +0200</pubDate>
+    <lastBuildDate>Tue, 29 Aug 2023 16:22:42 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Aug 2023 18:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg"/>
+    <item>
+      <title>Hvordan blir det om Trump blir president?</title>
+      <description><![CDATA[Den amerikanske valgkampen er godt i gang. Men selv om partiene ikke engang har bestemt seg for presidentkandidater, tror mange at valgresultatet er gitt: Donald Trump kan bli president i USA igjen. Hvordan blir Donald Trump 2.0 ? Hilmar Mjelde er førsteamanuensis i statsvitenskap og forsker ved Høyskolen på Vestlandet, har nylig vært på Iowa State Fair, der republikanske kandidater driver valgkamp, ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/75e26c5d-fb72-4750-8118-c6f5e42f1a3b_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/75e26c5d-fb72-4750-8118-c6f5e42f1a3b_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:12</itunes:duration>
+      <pubDate>Tue, 29 Aug 2023 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>60 år siden "I Have a Dream"</title>
+      <description><![CDATA[Martin Luther King jr. holdt en av verdens aller mest berømte taler under demonstrasjonen The March on Washington 28. august 1963. Den er fortsatt viktig for kampen mot rasisme i USA.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/19d17e6a-55bc-40dd-babb-86ffd38cd672_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/19d17e6a-55bc-40dd-babb-86ffd38cd672_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:59</itunes:duration>
+      <pubDate>Mon, 28 Aug 2023 18:02:00 +0200</pubDate>
+    </item>
     <item>
       <title>Fleinsopp i terapi</title>
       <description><![CDATA[En regntung sommer betyr en sterk soppsesong. Da er det viktig å se til at du ikke får med deg noen giftige sopper i kurven. Likevel er det noen som mener at én av disse giftige soppene kan ha stor positiv effekt på helsen din, dersom det gjøres riktig. Men hva kan fleinsopp behandle, og hvilke bivirkninger vet man om?]]></description>
@@ -78,22 +94,6 @@
       <enclosure url="https://podkast.nrk.no/fil/studio_2/f3862d1a-c9bb-409e-b3fd-99f2915a24cc_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>19:41</itunes:duration>
       <pubDate>Thu, 24 Aug 2023 10:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>50 år siden ranet som skapte stockholmsyndromet</title>
-      <description><![CDATA[Det er 50 år siden en dramatisk gisselsituasjon i Kreditbanken i Stockholm, der gislene plutselig begynner å ta ranernes parti. Hendelsen fikk voldsom mediedekning, noe som var ganske unikt i 1973.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/61bd7a9e-6e24-4fb4-b563-8fb7b7f7d4ce_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/61bd7a9e-6e24-4fb4-b563-8fb7b7f7d4ce_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:47</itunes:duration>
-      <pubDate>Wed, 23 Aug 2023 18:01:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Hva er hundedagene?</title>
-      <description><![CDATA[Surner melken fortere på sensommeren, og er det farlig å bade på denne tiden? Hundedagene er for mange fortsatt et kjent begrep. Dette er rett og slett siste rest av troen på en gammel Egyptisk, astrologisk forbannelse, som har overlevd i folkloren.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/a20b850e-e845-4f83-93a2-748e98495c76_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/a20b850e-e845-4f83-93a2-748e98495c76_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:35</itunes:duration>
-      <pubDate>Wed, 23 Aug 2023 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
