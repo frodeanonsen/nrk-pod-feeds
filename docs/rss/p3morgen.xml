@@ -7,10 +7,18 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.3.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 31 Aug 2023 12:24:07 +0000</lastBuildDate>
-    <pubDate>Thu, 31 Aug 2023 13:45:00 +0200</pubDate>
+    <lastBuildDate>Thu, 31 Aug 2023 13:23:06 +0000</lastBuildDate>
+    <pubDate>Thu, 31 Aug 2023 14:38:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g"/>
+    <item>
+      <title>Noe attåt: Tete filmet karsten i senga</title>
+      <description><![CDATA[Seminaret gikk så som så, Anna følger ikke med og vi går gjennom låter fra ungdomstida. Til stede: Karsten, Tete, Johannes, Herman og ho Anna. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/f7c4102d-9aa6-4bef-9b27-2c1c8858ea1e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/f7c4102d-9aa6-4bef-9b27-2c1c8858ea1e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:15</itunes:duration>
+      <pubDate>Thu, 31 Aug 2023 14:38:00 +0200</pubDate>
+    </item>
     <item>
       <title>Tennis + hasj = ?</title>
       <description><![CDATA[Karsten og Tete spiller tennis i studio. Christine Dancke er gjest hos oss fordi hun har fått drømmejobben, nemlig dommer i "Stjernekamp". ]]></description>
@@ -44,19 +52,19 @@
       <pubDate>Fri, 25 Aug 2023 11:45:00 +0200</pubDate>
     </item>
     <item>
-      <title>Intervention av Karsten</title>
-      <description><![CDATA[Tete og produsent Johannes er bekymra for Karsten, "Ragnarok"-skuespiller Jonas er innom og FpU-leder Simen Velle må svare på kjappe spørsmål. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/cbb01f50-eeaa-4415-b536-e12e772e6702_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/cbb01f50-eeaa-4415-b536-e12e772e6702_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:34</itunes:duration>
-      <pubDate>Thu, 24 Aug 2023 11:30:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Noe attåt: Dagen vi mistet Karsten</title>
       <description><![CDATA[Velkommen til vårt nye medlem! Vi prøver å bli kjent med vår nye gjestebooker, men blir stadig distrahert av nye ting vi lærer om Karsten. Tilstede: Tete, Karsten, Herman, Johannes og Kaja.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/043755b8-09f4-4d36-bd5a-2c686d1d1e26_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/043755b8-09f4-4d36-bd5a-2c686d1d1e26_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>41:27</itunes:duration>
+      <pubDate>Thu, 24 Aug 2023 11:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Intervention av Karsten</title>
+      <description><![CDATA[Tete og produsent Johannes er bekymra for Karsten, "Ragnarok"-skuespiller Jonas er innom og FpU-leder Simen Velle må svare på kjappe spørsmål. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/cbb01f50-eeaa-4415-b536-e12e772e6702_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/cbb01f50-eeaa-4415-b536-e12e772e6702_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:34</itunes:duration>
       <pubDate>Thu, 24 Aug 2023 11:30:00 +0200</pubDate>
     </item>
     <item>
@@ -82,14 +90,6 @@
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/bf4ade5d-ad7a-4950-bb6f-1fc8e1e8fd68_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>39:04</itunes:duration>
       <pubDate>Tue, 22 Aug 2023 13:35:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Nervøse før «Skal vi danse»</title>
-      <description><![CDATA[På lørdag sparkes «Skal vi danse» i gang, og vi sjekker inn med hvordan nervene er hos Ulrikke Brandstorp og Tarjei Svalastog. Vi stiller også noen vanskelige spørsmål til politiker Hassan Nawaz.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/6098f7c6-9a89-4b66-8401-030a7f5966f5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/6098f7c6-9a89-4b66-8401-030a7f5966f5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:57</itunes:duration>
-      <pubDate>Tue, 22 Aug 2023 10:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
