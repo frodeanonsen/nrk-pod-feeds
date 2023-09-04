@@ -16,12 +16,6 @@
         "hidden": true
     },
     {
-        "id": "oppdatert",
-        "title": "De 10 siste fra Oppdatert",
-        "season": null,
-        "enabled": true
-    },
-    {
         "id": "abels_taarn",
         "title": "De 10 siste fra Abels Tårn",
         "season": null,
@@ -50,6 +44,12 @@
         "enabled": false,
         "ignore": true,
         "hidden": true
+    },
+    {
+        "id": "arena",
+        "title": "De 10 siste fra Arena",
+        "season": null,
+        "enabled": true
     },
     {
         "id": "baksnakk",
@@ -120,6 +120,12 @@
         "hidden": true
     },
     {
+        "id": "cold_front_skyggekrigen",
+        "title": "De 10 siste fra Cold Front – Skyggekrigen",
+        "season": null,
+        "enabled": false
+    },
+    {
         "id": "delfi_og_dolfy",
         "title": "De 10 siste fra Delfi og Dolfy",
         "season": null,
@@ -170,12 +176,24 @@
         "hidden": true
     },
     {
+        "id": "eventyrstund_med_morten_og_saft",
+        "title": "De 10 siste fra Eventyrstund med Morten og Saft",
+        "season": null,
+        "enabled": false
+    },
+    {
         "id": "familiene_paa_orderud",
         "title": "De 10 siste fra Familiene på Orderud",
         "season": null,
         "enabled": false,
         "ignore": true,
         "hidden": true
+    },
+    {
+        "id": "fantorangenfortellinger",
+        "title": "De 10 siste fra Fantorangenfortellinger",
+        "season": null,
+        "enabled": false
     },
     {
         "id": "fantorangens_lydmysterier",
@@ -186,10 +204,16 @@
         "hidden": true
     },
     {
+        "id": "fantorangens_vitseshow",
+        "title": "De 10 siste fra Fantorangens vitseshow",
+        "season": null,
+        "enabled": false
+    },
+    {
         "id": "feriestemning",
         "title": "De 10 siste fra Feriestemning",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "filmpolitiet",
@@ -222,6 +246,12 @@
     {
         "id": "gal_og_genial",
         "title": "De 10 siste fra Gal og Genial",
+        "season": null,
+        "enabled": true
+    },
+    {
+        "id": "gamle_greier",
+        "title": "De 10 siste fra Gamle greier",
         "season": null,
         "enabled": true
     },
@@ -270,6 +300,18 @@
         "hidden": true
     },
     {
+        "id": "guttapassasjen",
+        "title": "De 10 siste fra Guttapassasjen",
+        "season": null,
+        "enabled": false
+    },
+    {
+        "id": "haevvi",
+        "title": "De 10 siste fra Hævvi",
+        "season": null,
+        "enabled": true
+    },
+    {
         "id": "heia_fotball",
         "title": "De 10 siste fra Heia Fotball",
         "season": null,
@@ -305,7 +347,7 @@
         "id": "hvordan_moettes_dere_",
         "title": "De 10 siste fra Hvordan møttes dere? ",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "i_det_lange_loep",
@@ -653,6 +695,12 @@
         "hidden": true
     },
     {
+        "id": "oppdatert",
+        "title": "De 10 siste fra Oppdatert",
+        "season": null,
+        "enabled": true
+    },
+    {
         "id": "p060ms2h",
         "title": "De 10 siste fra Death in Ice Valley",
         "season": null,
@@ -711,6 +759,18 @@
         "enabled": false,
         "ignore": true,
         "hidden": true
+    },
+    {
+        "id": "radio_moerch",
+        "title": "De 10 siste fra Radio Mørch",
+        "season": null,
+        "enabled": true
+    },
+    {
+        "id": "radio_utslagsnes",
+        "title": "De 10 siste fra Radio Utslagsnes",
+        "season": null,
+        "enabled": true
     },
     {
         "id": "radiodokumentaren",
@@ -824,7 +884,7 @@
         "id": "skitprat",
         "title": "De 10 siste fra Skitprat med Jens og Isak",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "smi_horror",
@@ -844,15 +904,15 @@
     },
     {
         "id": "sommer_i_p2",
-        "title": "De 10 siste fra Sommer og vinter i P2",
+        "title": "De 10 siste fra Sommer i P2",
         "season": null,
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "sophie_og_fetisha",
         "title": "De 10 siste fra Sophie og Fetisha",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "sos_noedtelefonen",
@@ -1051,6 +1111,12 @@
         "enabled": false,
         "ignore": true,
         "hidden": true
+    },
+    {
+        "id": "vikinger",
+        "title": "De 10 siste fra Vikinger",
+        "season": null,
+        "enabled": false
     },
     {
         "id": "westworld-podden",
