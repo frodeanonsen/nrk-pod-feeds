@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 22 siste fra Radio Mørch</title>
+    <title>De 23 siste fra Radio Mørch</title>
     <link>https://frodeanonsen.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 22 episodene fra podkasten Radio Mørch. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radio_moerch for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 23 episodene fra podkasten Radio Mørch. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radio_moerch for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 14 Sep 2023 04:22:05 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Sep 2023 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 21 Sep 2023 04:22:16 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Sep 2023 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
     <item>
@@ -219,6 +219,15 @@ UPDATE: FIKK IKKE TILBAKE BILLIG HBO.]]></description>
       <itunes:duration>01:10:55</itunes:duration>
       <pubDate>Thu, 14 Sep 2023 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/mZgsCYrnw4mHIuln9MwfNw5L9X6nysfltvX8zgVw2UPQ.jpg"/>
+    </item>
+    <item>
+      <title>Maria Stavang</title>
+      <description><![CDATA[Maria Stavang snakker om det perfekte liv og sexy DMs, og vi får en oppklaring i Bar Boca-hendelsen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/b3d56d8b-64f1-4f53-8a2b-e725c113c58d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/b3d56d8b-64f1-4f53-8a2b-e725c113c58d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:10:18</itunes:duration>
+      <pubDate>Thu, 21 Sep 2023 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AtPeFygCaBHLV7v0mnYW7grLW7qa9ITQCMbPGIDdAD9A.jpg"/>
     </item>
   </channel>
 </rss>
