@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 25 Sep 2023 11:18:31 +0000</lastBuildDate>
-    <pubDate>Mon, 25 Sep 2023 12:30:00 +0200</pubDate>
+    <lastBuildDate>Tue, 26 Sep 2023 08:22:41 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Sep 2023 10:20:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Hellstrøm kjefter på kongelige</title>
+      <description><![CDATA[Siri Avlesen-Østli fikk kjenne på stressnivået da Eyvind Hellstrøm skulle bedømme maten hennes i det nye programmet «Kokkeskolen». Begge to er på besøk i studio denne tirsdagen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/cf8ab58a-97b7-4813-b2c1-8f8e81f7760c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/cf8ab58a-97b7-4813-b2c1-8f8e81f7760c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:05</itunes:duration>
+      <pubDate>Tue, 26 Sep 2023 10:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5qlUN-lQifAZGxKDsMzz_Q1CcyBs27qfV4M5Gq6JfVpw.jpg"/>
+    </item>
     <item>
       <title>Note attåt: Er Ringenes Herre bra?</title>
       <description><![CDATA[Hani har sett Ringenes Herre for første gang og det skaper debatt! Til stede: Tete, Karsten, Hani, Johannes og Kaja.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>46:35</itunes:duration>
       <pubDate>Tue, 19 Sep 2023 12:31:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
-    </item>
-    <item>
-      <title>Tete starter mummikopp-helvete</title>
-      <description><![CDATA[Ungkaren returnerer på norsk TV etter 14 år! Og Tete er mildt sagt forbanna over mummikopper. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/2b228393-aaf7-434f-aa98-2e9bc7ffcda3_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/2b228393-aaf7-434f-aa98-2e9bc7ffcda3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:08</itunes:duration>
-      <pubDate>Tue, 19 Sep 2023 12:21:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/y0FASQPEkAe4aaaR9qpEAAMDiTWhEhsbj_y9KDimfqEw.jpg"/>
     </item>
   </channel>
 </rss>
