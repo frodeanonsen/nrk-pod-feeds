@@ -1016,6 +1016,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "skiklubben",
+    "title": "De 10 siste fra Skiklubben",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "skitprat",
     "title": "De 10 siste fra Skitprat med Jens og Isak",
     "season": null,
