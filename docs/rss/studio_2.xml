@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 10 Oct 2023 16:22:56 +0000</lastBuildDate>
-    <pubDate>Tue, 10 Oct 2023 18:01:00 +0200</pubDate>
+    <lastBuildDate>Wed, 11 Oct 2023 16:22:22 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Oct 2023 18:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg.jpg"/>
+    <item>
+      <title>Støvsamleren med Abu</title>
+      <description><![CDATA[Her uke inviterer vi i Studio 2 en kulturperson som får komme hit og kvitte seg med en gjenstand som ikke lenger er i bruk.Noe som bare samler støv. Komiker, programleder og skuespiller Abubakar Hussain, kjent som Abu,  er ukens Støvsamler.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/ec7c6d0f-b28e-49f8-8725-08f54e6e5fdb_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/ec7c6d0f-b28e-49f8-8725-08f54e6e5fdb_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:59</itunes:duration>
+      <pubDate>Wed, 11 Oct 2023 18:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg.jpg"/>
+    </item>
     <item>
       <title>Kan norske kvinner takke Katti Anker Møller?</title>
       <description><![CDATA[Hun snakket åpent om seksualitet, prevensjon og selvbestemt abort for over 100 år siden, og ble kalt usedelig og usmakelig. Hun skal også ha deler av æren for det som kaltes "de castbergske barnelover", som ga alle barn rett til en far. Hvem var Katti Anker Møller, og hvordan greide hun å få til alt dette i en tid hvor kvinner helst skulle tie og adlyde ektemannen? Hege Duckert har skrevet boken "Å bestemme over livet", om hennes engasjement - ikke minst for arbeiderklassens kvinner. ]]></description>
@@ -91,15 +100,6 @@ Han har med seg Simon J. Berger,  kjent fra TV-serien Exit.  Han spiller rollen 
       <enclosure url="https://podkast.nrk.no/fil/studio_2/3e06a0c2-f095-467b-b495-b9bf25e01012_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>34:27</itunes:duration>
       <pubDate>Thu, 05 Oct 2023 17:42:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg.jpg"/>
-    </item>
-    <item>
-      <title>Støvsamler'n: Alexandra Archetti Stølen</title>
-      <description><![CDATA[Musikkfestivalen Oslo World feirer 30 år. Festivalsjef Alexandra Archetti Stølen er ukas gjest i vår faste onsdagsspalte «Støvsamler’n»]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/bec2d37f-255a-40b4-854d-6872ddb6d713_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/bec2d37f-255a-40b4-854d-6872ddb6d713_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:55</itunes:duration>
-      <pubDate>Wed, 04 Oct 2023 18:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg.jpg"/>
     </item>
   </channel>
