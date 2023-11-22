@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 21 Nov 2023 14:21:21 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Nov 2023 15:12:00 +0100</pubDate>
+    <lastBuildDate>Wed, 22 Nov 2023 12:24:08 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Nov 2023 13:05:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Hvordan smaker svamp?</title>
+      <description><![CDATA[Besøk av Erik Follestad og Tete tvinger Adelina til å kjenne på svamp med tungen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/20b61ed8-9932-4328-9bf1-ee2e96fb3e57_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/20b61ed8-9932-4328-9bf1-ee2e96fb3e57_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:14</itunes:duration>
+      <pubDate>Wed, 22 Nov 2023 13:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Tk-A74IMZMz6-an-8iyB7QVRu8mQRcKcNv-pjc_4xFdg.jpg"/>
+    </item>
     <item>
       <title>Noe attåt: snart jul</title>
       <description><![CDATA[Noen har pyntet allerede, andre ikke. Vi gleder oss hvert fall til jul! Til stede: Adelina, Tete, Karsten, Herman og Anna. ]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>51:54</itunes:duration>
       <pubDate>Wed, 15 Nov 2023 14:24:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/jdZqV8wAqkmFfNNEB1pAgANJyHdDnT14zfFptu8ffNOA.jpg"/>
-    </item>
-    <item>
-      <title>Noe attåt: Et oppgjør med Tete og Herman</title>
-      <description><![CDATA[Endelig blir Tete konfrontert med mailen Synnøve sendte en tid tilbake, Herman får en gave fra Tete og vi har vært på raclette-kveld. Tilstede: Adelina, Tete, Anna, Johannes og Herman.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/8d049674-ce77-430c-94fb-4fbbe9a9c6f9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/8d049674-ce77-430c-94fb-4fbbe9a9c6f9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>48:40</itunes:duration>
-      <pubDate>Wed, 15 Nov 2023 13:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/m3grNdJ1rIXwN1Whh7OZEQqnseLsJ45D-fxC6QVpDASA.jpg"/>
     </item>
   </channel>
 </rss>
