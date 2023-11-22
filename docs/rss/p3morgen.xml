@@ -7,10 +7,37 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 22 Nov 2023 12:24:08 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Nov 2023 13:05:00 +0100</pubDate>
+    <lastBuildDate>Wed, 22 Nov 2023 13:22:39 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Nov 2023 13:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Noe attåt: Karstens kake</title>
+      <description><![CDATA[Karsten har med kake og deler oppskrift. Tilstede: Karsten, Egil, Adelina og Herman
+
+Ingredienser: 
+
+Kjeksbunn:
+♥ 400 g Lotus Biscoff kjeks
+♥ 125 g smør
+
+Ostekrem: 
+♥ 500 g kremost (se tips)
+♥ 100 g melis
+♥ 250 g Lotus Biscoff Spread
+♥ 1 ts vaniljeekstrakt
+♥ 2,5 dl kremfløte
+
+Glasur og pynt:
+♥ 150 g Lotus Biscoff Spread
+♥ 1,5 dl kremfløte
+♥ 5 stk Lotus Biscoff kjeks]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e452f731-36ca-41ec-87fd-e1a8cbe7ae56_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e452f731-36ca-41ec-87fd-e1a8cbe7ae56_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:23</itunes:duration>
+      <pubDate>Wed, 22 Nov 2023 13:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uKRQjnMMoDxqENzT3PZwCA_MfkphenzMIzv9JWwveE4Q.jpg"/>
+    </item>
     <item>
       <title>Hvordan smaker svamp?</title>
       <description><![CDATA[Besøk av Erik Follestad og Tete tvinger Adelina til å kjenne på svamp med tungen]]></description>
@@ -91,15 +118,6 @@
       <itunes:duration>37:29</itunes:duration>
       <pubDate>Thu, 16 Nov 2023 13:45:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/KxEYPYDOkAF9bE85YF8RowgOca7BJA9nasK54Nh68crA.jpg"/>
-    </item>
-    <item>
-      <title>Stor forvandling </title>
-      <description><![CDATA[Adelina avslører en stor forvandling for Tete, Kim K er starstrucket av Haaland og to av fire hvite gutter besøker oss<3]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d9109706-a2df-48b0-a1ca-e5d1f2ce26d9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d9109706-a2df-48b0-a1ca-e5d1f2ce26d9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:54</itunes:duration>
-      <pubDate>Wed, 15 Nov 2023 14:24:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jdZqV8wAqkmFfNNEB1pAgANJyHdDnT14zfFptu8ffNOA.jpg"/>
     </item>
   </channel>
 </rss>
