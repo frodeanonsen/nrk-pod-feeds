@@ -681,7 +681,7 @@
         "id": "meininga_med_livet",
         "title": "De 10 siste fra Meininga med livet",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "mellom_oss",
@@ -1102,7 +1102,9 @@
         "id": "sophie_og_fetisha",
         "title": "De 10 siste fra Sophie og Fetisha",
         "season": null,
-        "enabled": false
+        "enabled": false,
+        "ignore": true,
+        "hidden": true
     },
     {
         "id": "sos_noedtelefonen",
