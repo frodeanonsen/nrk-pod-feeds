@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 36 siste fra Radio Mørch</title>
+    <title>De 37 siste fra Radio Mørch</title>
     <link>https://frodeanonsen.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 36 episodene fra podkasten Radio Mørch. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radio_moerch for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 37 episodene fra podkasten Radio Mørch. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radio_moerch for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 21 Dec 2023 05:21:03 +0000</lastBuildDate>
-    <pubDate>Thu, 21 Dec 2023 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 04 Jan 2024 05:20:46 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
     <item>
@@ -345,6 +345,15 @@ UPDATE: FIKK IKKE TILBAKE BILLIG HBO.]]></description>
       <itunes:duration>01:38:27</itunes:duration>
       <pubDate>Thu, 21 Dec 2023 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
+    </item>
+    <item>
+      <title>Amalie Stuve er tilbake igjen!</title>
+      <description><![CDATA[Amalie Stuve er første gjest ut i 2024. Vi snakker om nyttårsforsetter, revyer, løping og barndom. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/e0688ca9-a899-4154-8faf-b83a7338021a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/e0688ca9-a899-4154-8faf-b83a7338021a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:15:14</itunes:duration>
+      <pubDate>Thu, 04 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ISm2w1T3bDkhWC8K9om6iQVXykW_2yxORKbk-u1_AvGA.jpg"/>
     </item>
   </channel>
 </rss>
