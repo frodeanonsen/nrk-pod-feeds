@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 03 Jan 2024 17:20:32 +0000</lastBuildDate>
-    <pubDate>Wed, 03 Jan 2024 18:05:00 +0100</pubDate>
+    <lastBuildDate>Thu, 04 Jan 2024 17:20:20 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jan 2024 18:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg.jpg"/>
+    <item>
+      <title>Utlandet oppdager snus</title>
+      <description><![CDATA[Den tidligere særskandinaviske snusen har det siste året blitt svært populær i utlandet, nå sist i USA. Hva er det med disse små posene med nikotin vi gjemmer under leppa?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/0c561ee1-76db-4eaf-9eb7-1b3685620d3c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/0c561ee1-76db-4eaf-9eb7-1b3685620d3c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:22</itunes:duration>
+      <pubDate>Thu, 04 Jan 2024 18:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg.jpg"/>
+    </item>
     <item>
       <title>100 år med Riksantikvaren</title>
       <description><![CDATA[Riksantikvaren har freda bygningar i Noreg i hundre år. Korleis speglar Riksantikvaren sitt arbeid samfunnet og samfunnshistoria?]]></description>
@@ -94,15 +103,6 @@ Parallelt med høytiden øker utenforskapet. Økonomiske problemer, ensomhet og 
       <enclosure url="https://podkast.nrk.no/fil/studio_2/c4b46f61-1990-4edf-b25c-a543a7a9bb02_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>13:40</itunes:duration>
       <pubDate>Thu, 21 Dec 2023 18:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg.jpg"/>
-    </item>
-    <item>
-      <title>Vulkaner i islandsk folketro</title>
-      <description><![CDATA[Vulkanutbrudd på Island er ingenting nytt, og har eksistert lenge før man fikk varslingssystemer og ikke minst vitenskapelige forklaringer. Vi spør hvor sterkt vulkanene står i den islandske folketroa, når et folk har måttet bo side om side med sprekker i bakken i over 1000 år.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/4130011f-6720-49b9-947d-02e0aa8ec74f_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/4130011f-6720-49b9-947d-02e0aa8ec74f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>10:33</itunes:duration>
-      <pubDate>Wed, 20 Dec 2023 18:01:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg.jpg"/>
     </item>
   </channel>
