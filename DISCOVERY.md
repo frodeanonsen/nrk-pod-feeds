@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-01-10  
+- Updated podcast 'Historiske kjendiser' (`historiske_kjendiser`)  
 ### 2024-01-06  
 - Updated podcast 'Hele historien' (`hele_historien`)  
 - Updated podcast 'Lindmo og Co' (`lindmo_og_co`)  
