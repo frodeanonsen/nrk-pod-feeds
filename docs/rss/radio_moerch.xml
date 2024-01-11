@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 37 siste fra Radio Mørch</title>
+    <title>De 38 siste fra Radio Mørch</title>
     <link>https://frodeanonsen.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 37 episodene fra podkasten Radio Mørch. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radio_moerch for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 38 episodene fra podkasten Radio Mørch. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radio_moerch for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 04 Jan 2024 05:20:46 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Jan 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 11 Jan 2024 05:20:59 +0000</lastBuildDate>
+    <pubDate>Thu, 11 Jan 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
     <item>
@@ -354,6 +354,15 @@ UPDATE: FIKK IKKE TILBAKE BILLIG HBO.]]></description>
       <itunes:duration>01:15:14</itunes:duration>
       <pubDate>Thu, 04 Jan 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ISm2w1T3bDkhWC8K9om6iQVXykW_2yxORKbk-u1_AvGA.jpg"/>
+    </item>
+    <item>
+      <title>Ole Øyvind Sand Holth</title>
+      <description><![CDATA[Kunne krigen i Ukraina vært unngått? Er vestens kritikk av VM i Qatar dobbeltmoralsk? Klassekampens Ole Øyvind Sand Holth er gjest Obs: Episoden ble spilt inn 21. desember. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/d8d45af5-95ee-4b59-a2b2-49cf53facfc9_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/d8d45af5-95ee-4b59-a2b2-49cf53facfc9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:36:18</itunes:duration>
+      <pubDate>Thu, 11 Jan 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OXNi8uCH_4GOlkI-wuT-Vw0wI4tiohY-kyG4QcJtfgtA.jpg"/>
     </item>
   </channel>
 </rss>
