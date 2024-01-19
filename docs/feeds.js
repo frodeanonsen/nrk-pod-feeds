@@ -475,7 +475,7 @@ const feeds = [
     "id": "karakter",
     "title": "De 10 siste fra Dynga",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "karriereveilederen",
