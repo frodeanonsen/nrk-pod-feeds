@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Tue, 30 Jan 2024 12:23:43 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Jan 2024 12:45:00 +0100</pubDate>
+    <lastBuildDate>Tue, 30 Jan 2024 13:20:51 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Jan 2024 13:25:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Legalize the spytting</title>
+      <description><![CDATA[Bård Tufte Johansen er på besøk for å snakke om "Oppsynsmannen" på NRKTV. Tete og Karsten finner også ut at de har gjort noe ulovlig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/dcba9c0e-22ab-4f74-a2f0-57f571313cae_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/dcba9c0e-22ab-4f74-a2f0-57f571313cae_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:01</itunes:duration>
+      <pubDate>Tue, 30 Jan 2024 13:25:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aWz3E604z0JW_rVHv0KN4wSZyeh6tdd_qVLF0faKqzkQ.jpg"/>
+    </item>
     <item>
       <title>Noe attåt: Badstue og gambling</title>
       <description><![CDATA[Karsten skal endelig ta Johannes med i badstue, og Anna har begynt med gambling. Til stede: Tete, Karsten, Johannes, Anna, Hani og Jenny.]]></description>
@@ -39,15 +48,6 @@
       <itunes:image href="https://gfx.nrk.no/n6rMir7pq33XgjqpnCTS5glcmZYR9msmoZSM5QYgLBwg.jpg"/>
     </item>
     <item>
-      <title>Noe attåt: Spa </title>
-      <description><![CDATA[Vi går gjennom helgas planer<3 Til stede: Adelina, Tete, Daniel og Anna. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/1dfc0774-1482-4b7b-b8d5-c96d7a54a354_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/1dfc0774-1482-4b7b-b8d5-c96d7a54a354_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:33</itunes:duration>
-      <pubDate>Fri, 26 Jan 2024 13:05:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
-    </item>
-    <item>
       <title>Bakt potet og forlovelsesring</title>
       <description><![CDATA[Ramón er på besøk for å prate om forlovelse og Hver gang vi møtes! ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/8b948bce-6615-4e2c-b87c-8d61780e0ee3_0_ID192MP3.mp3</guid>
@@ -55,6 +55,15 @@
       <itunes:duration>51:37</itunes:duration>
       <pubDate>Fri, 26 Jan 2024 13:05:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/agFUXEnTxrF4M5lEByiB_AbIZmJMphmCvLJT11pe0VQA.jpg"/>
+    </item>
+    <item>
+      <title>Noe attåt: Spa </title>
+      <description><![CDATA[Vi går gjennom helgas planer<3 Til stede: Adelina, Tete, Daniel og Anna. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/1dfc0774-1482-4b7b-b8d5-c96d7a54a354_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/1dfc0774-1482-4b7b-b8d5-c96d7a54a354_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:33</itunes:duration>
+      <pubDate>Fri, 26 Jan 2024 13:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
     </item>
     <item>
       <title>Noe attåt: Innafor med fjelltur i jeans?</title>
@@ -91,15 +100,6 @@
       <itunes:duration>46:00</itunes:duration>
       <pubDate>Wed, 24 Jan 2024 12:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/y2PcqM58A4fK3plOAqfqWAlsVX05MRpjFvaKaEGk84RA.jpg"/>
-    </item>
-    <item>
-      <title>Noe Attåt: La oss spise verden</title>
-      <description><![CDATA[... på en tallerken. Karstens matdebatt fortsetter, og Johannes blir utfordret på badstue. Tilstede: Tete, Karsten, Johannes og Anna. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/95f9229f-d806-45ed-8429-ed81ab2bdbdd_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/95f9229f-d806-45ed-8429-ed81ab2bdbdd_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:53</itunes:duration>
-      <pubDate>Tue, 23 Jan 2024 12:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
     </item>
   </channel>
 </rss>
