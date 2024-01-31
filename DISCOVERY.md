@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-01-31  
+- Podcast 'Historier fra virkeligheten' is considered obsolete and will be ignored in the future (`radiodokumentaren`)  
 ### 2024-01-21  
 - Updated podcast 'Vinter i P2' (`sommer_i_p2`)  
 ### 2024-01-19  
