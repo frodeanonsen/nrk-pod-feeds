@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 41 siste fra Radio Mørch</title>
+    <title>De 42 siste fra Radio Mørch</title>
     <link>https://frodeanonsen.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 41 episodene fra podkasten Radio Mørch. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radio_moerch for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 42 episodene fra podkasten Radio Mørch. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/radio_moerch for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Thu, 01 Feb 2024 05:21:29 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Feb 2024 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 05:21:15 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2024 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw.jpg"/>
     <item>
       <title>Mímir Kristjánsson</title>
-      <description><![CDATA[Mímir. Frittalende populær politiker for Rødt.]]></description>
+      <description><![CDATA[Mímir! Frittalende populær politiker for Rødt.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/a787d7ff-978e-4d4c-ba09-6b8263eda415_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/radio_moerch/a787d7ff-978e-4d4c-ba09-6b8263eda415_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:14:42</itunes:duration>
@@ -285,7 +285,7 @@ UPDATE: FIKK IKKE TILBAKE BILLIG HBO.]]></description>
     </item>
     <item>
       <title>Mímir Kristjánsson igjen!</title>
-      <description><![CDATA[Erlend og Mímir snakker om krigen i Midtøsten.]]></description>
+      <description><![CDATA[Mímir og jeg snakker om krigen i Midtøsten.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/18b22462-555d-4c70-aa3b-d6ce1603622a_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/radio_moerch/18b22462-555d-4c70-aa3b-d6ce1603622a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:32:11</itunes:duration>
@@ -384,12 +384,21 @@ UPDATE: FIKK IKKE TILBAKE BILLIG HBO.]]></description>
     </item>
     <item>
       <title>Magnus Midtbø</title>
-      <description><![CDATA[Klatrer og youtuber som mener han "egentlig ikke gjør så mye farlig". Så hvorfor leste han da inn testamente på telefonen sist han var i Las Vegas?]]></description>
+      <description><![CDATA[Klatrer og youtuber som "egentlig ikke gjør så mye farlig". Så hvorfor leste han da inn testamente på telefonen sist han var i Las Vegas?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/b2f0d297-976e-417f-b160-9d2873d0c56e_0_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/radio_moerch/b2f0d297-976e-417f-b160-9d2873d0c56e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:20:26</itunes:duration>
       <pubDate>Thu, 01 Feb 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/QuTphqH6hNRTRALWfh3fiAA2ZL7NlqZbB9Wty338EyAQ.jpg"/>
+    </item>
+    <item>
+      <title>Anne-Kat. Hærland</title>
+      <description><![CDATA[Hun har nettopp hoppet av Farmen, men jeg ville heller prate om kunstig intelligens. Dét kan Anne-Katrine nemlig veldig mye om!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radio_moerch/de913afd-f512-4d9a-a7f0-8a19220b4a22_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radio_moerch/de913afd-f512-4d9a-a7f0-8a19220b4a22_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:34:31</itunes:duration>
+      <pubDate>Thu, 08 Feb 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RONf1IFxjUnM6G-I6D6wiA02-38IM7owwRNe4m8ktu3Q.jpg"/>
     </item>
   </channel>
 </rss>
