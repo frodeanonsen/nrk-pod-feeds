@@ -1172,7 +1172,7 @@ const feeds = [
     "id": "studio_2",
     "title": "De 10 siste fra Studio 2",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "supernytt",
