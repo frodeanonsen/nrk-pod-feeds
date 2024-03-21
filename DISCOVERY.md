@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2024-03-21  
+- Added podcast 'Rød løype' (`roed_loeype`)  
+- Added podcast 'Supertrøtt' (`supertroett`)  
 ### 2024-03-07  
 - Added podcast 'Pønsj' (`poensj`)  
 ### 2024-02-25  
