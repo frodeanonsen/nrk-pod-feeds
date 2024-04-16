@@ -7,10 +7,21 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 15 Apr 2024 16:22:18 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Apr 2024 18:01:00 +0200</pubDate>
+    <lastBuildDate>Tue, 16 Apr 2024 16:22:31 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Apr 2024 18:03:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg.jpg"/>
+    <item>
+      <title>Laga album av kjærleiksbreva til besteforeldra</title>
+      <description><![CDATA[Ein bunke kjærleiksbrev mellom besteforeldra til Stine Andreassen, blei til albumet "Bats in the attic" med The Northern belle.
+ 
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/c7b632d7-c190-4845-8089-dbf5d9179f72_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/studio_2/c7b632d7-c190-4845-8089-dbf5d9179f72_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:05</itunes:duration>
+      <pubDate>Tue, 16 Apr 2024 18:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg.jpg"/>
+    </item>
     <item>
       <title>Kondolanser smører forholdet mellom land</title>
       <description><![CDATA[Når noe trist eller tragisk skjer, så er statsoverhodene raskt på pletten med en nøye formulert kondolanse. Hvorfor sender statsoverhoder kondolanser fram og tilbake til hverandre og hva betyr det for diplomatiet?]]></description>
@@ -90,15 +101,6 @@
       <enclosure url="https://podkast.nrk.no/fil/studio_2/07841946-c4a3-449e-b4ae-9175a7285a04_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:41</itunes:duration>
       <pubDate>Tue, 09 Apr 2024 18:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg.jpg"/>
-    </item>
-    <item>
-      <title>Hva er egentlig nymåne?</title>
-      <description><![CDATA[I dag, den 8. april, er det total solformørkelse i Nord-Amerika. Det betyr at Solen, Månen og Jorden står på linje. I tillegg er det nymåne. Månen og Solen har fascinert menneskene enormt til alle tider. Religionsviter og livsynskommentator Helene Kierulf Næss forteller hvorfor vi er så opptatte av disse himmellegemene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/studio_2/16116212-8669-4847-9d8f-a31abf80b8b5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/studio_2/16116212-8669-4847-9d8f-a31abf80b8b5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:03</itunes:duration>
-      <pubDate>Mon, 08 Apr 2024 18:01:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/FlalvKI4doJf70tBLw-0fAbthPs4FOMmGjORt0a4uSTg.jpg"/>
     </item>
   </channel>
