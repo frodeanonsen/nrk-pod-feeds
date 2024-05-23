@@ -613,7 +613,7 @@ const feeds = [
     "id": "kveldstanker",
     "title": "De 10 siste fra Kveldstanker",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "labyrint_om_natten",
