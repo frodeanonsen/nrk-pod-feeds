@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 17 Jun 2024 08:22:40 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Jun 2024 10:20:00 +0200</pubDate>
+    <lastBuildDate>Mon, 17 Jun 2024 09:22:00 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Jun 2024 10:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
+    <item>
+      <title>Noe annet: Krig med foodora</title>
+      <description><![CDATA[Markus har fått et dårlig forhold til matleveringstjenesten: "foodora". Det gikk også litt hardt for seg da Anna var på festival i helgen. Til stede: Johannes, Anna, Markus og Jenny]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/38b98fef-78fc-4983-bb47-d82323b83ad1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/38b98fef-78fc-4983-bb47-d82323b83ad1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:27</itunes:duration>
+      <pubDate>Mon, 17 Jun 2024 10:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mwcxLtyIFr-T9K5CFYVEnAJnA_9S81F5-iU5EBuxZI4g.jpg"/>
+    </item>
     <item>
       <title>Supervikarene er på plass!</title>
       <description><![CDATA[Det blir "hjemme-alene-stemning" når vikarene Anna Helene Folkestad og Markus Vangen tar over spakene!]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>01:00:09</itunes:duration>
       <pubDate>Tue, 11 Jun 2024 12:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/jgTbOiepg4CXYo0FTKcdbQYcjJOgM15J7tefOg87F5HA.jpg"/>
-    </item>
-    <item>
-      <title>Noe attåt: Gjest i svindyrt bryllup</title>
-      <description><![CDATA[Daniel har vært i et bryllup som satte tøff standard for resten av gjengen. Vi mimrer også til turer med Danskebåten og Kielfergen. Til stede: Adelina, Daniel, Anna og Jenny.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/a55b14f7-0e4a-4efc-858e-a1262e82801d_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a55b14f7-0e4a-4efc-858e-a1262e82801d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:42</itunes:duration>
-      <pubDate>Mon, 10 Jun 2024 12:35:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ReMbbcXbN9RVxX26oXG4IgrcYxwZ0FIKYbxUlnN5US5g.jpg"/>
     </item>
   </channel>
 </rss>
