@@ -385,7 +385,7 @@
         "id": "haevvi",
         "title": "De 10 siste fra Hævvi",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "heia_fotball",
@@ -397,7 +397,7 @@
         "id": "hele_historien",
         "title": "De 10 siste fra Hele historien",
         "season": "LATEST_SEASON",
-        "enabled": false
+        "enabled": true
     },
     {
         "id": "historiske_kjendiser",
