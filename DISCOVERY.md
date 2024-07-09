@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-07-09  
+- Updated podcast 'Hævvi' (`haevvi`)  
 ### 2024-06-28  
 - Updated podcast 'Debatten' (`debatten`)  
 - Added podcast 'OL-gull' (`olgull`)  
