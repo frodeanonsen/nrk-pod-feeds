@@ -1,4 +1,9 @@
 # Podcast Discovery Changelog  
+### 2024-07-20  
+- Updated podcast 'Hele historien' (`hele_historien`)  
+- Updated podcast 'Musikkrommet' (`musikkrommet`)  
+- Updated podcast 'Radio Mørch' (`radio_moerch`)  
+- Updated podcast 'Utakt' (`utakt`)  
 ### 2024-07-19  
 - Updated podcast 'Arena' (`arena`)  
 - Updated podcast 'Labyrint om natten' (`labyrint_om_natten`)  

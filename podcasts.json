@@ -405,7 +405,7 @@
         "id": "hele_historien",
         "title": "De 10 siste fra Hele historien",
         "season": "LATEST_SEASON",
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "historiske_kjendiser",
@@ -785,7 +785,7 @@
         "id": "musikkrommet",
         "title": "De 10 siste fra Musikkrommet",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "mysterier_fra_norge",
@@ -969,8 +969,7 @@
         "id": "radio_moerch",
         "title": "De 10 siste fra Radio Mørch",
         "season": null,
-        "episodes": 0,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "radio_utslagsnes",
@@ -1384,7 +1383,7 @@
         "id": "utakt",
         "title": "De 10 siste fra Utakt",
         "season": null,
-        "enabled": true
+        "enabled": false
     },
     {
         "id": "valg",
