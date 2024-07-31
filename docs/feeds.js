@@ -55,7 +55,7 @@ const feeds = [
     "id": "baade_erlend_og_steinar_",
     "title": "De 10 siste fra Både Erlend og Steinar ",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "baksnakk",
@@ -167,7 +167,7 @@ const feeds = [
     "id": "desken_brenner",
     "title": "De 10 siste fra Desken brenner",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "dilemmaklemma",
@@ -405,7 +405,7 @@ const feeds = [
     "id": "hele_historien",
     "title": "De 10 siste fra Hele historien",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "historiske_kjendiser",
@@ -529,7 +529,7 @@ const feeds = [
     "id": "kladden_har_daevva",
     "title": "De 10 siste fra Kladden har dævva",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "klassenraadet",
@@ -1189,7 +1189,7 @@ const feeds = [
     "id": "spraakteigen",
     "title": "De 10 siste fra Språksnakk",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "staale_utslagsnes_fra_loensj",
