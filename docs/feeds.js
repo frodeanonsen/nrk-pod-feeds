@@ -125,7 +125,7 @@ const feeds = [
     "id": "burde_vaert_pensum",
     "title": "De 10 siste fra Burde vært pensum",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "clue",
@@ -531,7 +531,7 @@ const feeds = [
     "id": "kladden_har_daevva",
     "title": "De 10 siste fra Kladden har dævva",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "klassenraadet",
@@ -1349,7 +1349,7 @@ const feeds = [
     "id": "trygdekontoret",
     "title": "De 10 siste fra Trygdekontoret",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "turister",
