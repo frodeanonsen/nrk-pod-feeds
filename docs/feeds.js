@@ -389,7 +389,7 @@ const feeds = [
     "id": "haevvi",
     "title": "De 10 siste fra Hævvi",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "hei_nabo",
@@ -1393,7 +1393,7 @@ const feeds = [
     "id": "utakt",
     "title": "De 10 siste fra Utakt",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "valg",
