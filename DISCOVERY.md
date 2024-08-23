@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2024-08-23  
+- Updated podcast 'Språksnakk' (`spraakteigen`)  
+- Podcast 'Valg' is considered obsolete and will be ignored in the future (`valg`)  
 ### 2024-08-22  
 - Updated podcast 'Hævvi' (`haevvi`)  
 - Updated podcast 'Utakt' (`utakt`)  
