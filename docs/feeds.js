@@ -669,7 +669,7 @@ const feeds = [
     "id": "lindmo_og_co",
     "title": "De 10 siste fra Lindmo og Co",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "loensj_med_rune_nilson",
@@ -682,6 +682,12 @@ const feeds = [
   {
     "id": "loerdagsraadet",
     "title": "De 10 siste fra Lørdagsrådet",
+    "season": null,
+    "enabled": true
+  },
+  {
+    "id": "luois_luohti",
+    "title": "De 10 siste fra Luođis luohtái",
     "season": null,
     "enabled": true
   },
