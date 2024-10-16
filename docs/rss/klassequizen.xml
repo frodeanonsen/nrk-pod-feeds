@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Wed, 16 Oct 2024 07:22:21 +0000</lastBuildDate>
-    <pubDate>Wed, 16 Oct 2024 09:05:00 +0200</pubDate>
+    <lastBuildDate>Wed, 16 Oct 2024 15:22:52 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Oct 2024 17:10:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-xE0f3eums0UHhKw7mS9dwYu1ham6iMo7Ra-8Yx_aKrw.jpg"/>
+    <item>
+      <title>Gimle oppveksttun</title>
+      <description><![CDATA[Laget på Gimle skole består av Sina Kornelia Nordstrand, Brage Holm Utne og Magnus Eldevik Ågotnes.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/798e645c-1ed0-40a7-963b-aace776b39de_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/798e645c-1ed0-40a7-963b-aace776b39de_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:13</itunes:duration>
+      <pubDate>Wed, 16 Oct 2024 17:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BB-XPfV5ry1mBtt0pbeq1AW-2xMNP-Jr3aFWfuc-ODGA.jpg"/>
+    </item>
     <item>
       <title>Danielsen ungdomsskole i Bergen</title>
       <description><![CDATA[På laget fra Danielsen ungdomsskole avdeling Bergen stilte Markus Berget Galleberg, Mathilde Gabrielsen og Christine Hove.]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>08:45</itunes:duration>
       <pubDate>Mon, 07 Oct 2024 09:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/lTpH2v4bqfjvzTg8wJhDCwYwyc9hEuc03-torfNCr-4Q.jpg"/>
-    </item>
-    <item>
-      <title>Enge skule</title>
-      <description><![CDATA[Enge skule i Etne stiller med Aleksander Andrzejczak, Lilly Øren og Johanne Løhaugen i Klassequizen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/05cee92b-ef66-43e1-a604-ca19c348e736_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/05cee92b-ef66-43e1-a604-ca19c348e736_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>08:43</itunes:duration>
-      <pubDate>Thu, 03 Oct 2024 09:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/L0A3_yX3VnK_VgQCuMikYQaGqyiPvflzqiKNPKZ9y1Sw.jpg"/>
     </item>
   </channel>
 </rss>
