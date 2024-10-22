@@ -1393,7 +1393,7 @@ const feeds = [
     "id": "tyrann",
     "title": "De 10 siste fra Tyrann",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "ubaatsaken",
