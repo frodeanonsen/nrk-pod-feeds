@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-11-29  
+- Updated podcast 'Abels tårn' (`abels_taarn`)  
 ### 2024-11-28  
 - Updated podcast 'Hele historien' (`hele_historien`)  
 ### 2024-11-21  
