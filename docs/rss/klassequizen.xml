@@ -7,10 +7,19 @@
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.4.0 (with help from python-podgen)</generator>
-    <lastBuildDate>Mon, 09 Dec 2024 13:24:49 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Dec 2024 14:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 09 Dec 2024 14:22:22 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Dec 2024 14:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/-xE0f3eums0UHhKw7mS9dwYu1ham6iMo7Ra-8Yx_aKrw.jpg"/>
+    <item>
+      <title>Ener ungdomsskole</title>
+      <description><![CDATA[En liker hest, to spiller trompet. Lykke til i Klassequizen, Anton, Ida og Julie fra Ener ungdomsskole i Hamar.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/d15dd5ad-0ae4-45a7-a5ec-34d0c9c94313_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/klassequizen/d15dd5ad-0ae4-45a7-a5ec-34d0c9c94313_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:43</itunes:duration>
+      <pubDate>Mon, 09 Dec 2024 14:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ofOMu7xyj7JSCKT1hKczYAjZ57lAlR_IWBrp555fRa0g.jpg"/>
+    </item>
     <item>
       <title>Ajer ungdomsskole</title>
       <description><![CDATA[Martin, Helene og Oliver fra Ajer ungdomsskole satser hardt på å bli den beste Klassequiz-skolen i Hamar. Lykke til med det!]]></description>
@@ -91,15 +100,6 @@
       <itunes:duration>12:30</itunes:duration>
       <pubDate>Wed, 27 Nov 2024 15:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ePhfuDlhoqX-vJ4n8bTZsgMMnfs3MX0O2q8_Ly4j23YA.jpg"/>
-    </item>
-    <item>
-      <title>Snertingdal skole</title>
-      <description><![CDATA[Katrine har en egen travhest, Halvor har egen traktor og Alma har tenkt å bli sjukepleier.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/klassequizen/e06a99eb-90dd-4cfb-a697-d113539b66f9_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/klassequizen/e06a99eb-90dd-4cfb-a697-d113539b66f9_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:30</itunes:duration>
-      <pubDate>Mon, 25 Nov 2024 14:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Pd2vsOTHu3iV3p-3EHGt8wj-LD-YbMLw0acWM7gdynng.jpg"/>
     </item>
   </channel>
 </rss>
