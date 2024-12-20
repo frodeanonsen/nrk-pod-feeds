@@ -1,4 +1,8 @@
 # Podcast Discovery Changelog  
+### 2024-12-20  
+- Added podcast 'Bibelen' (`bibelen`)  
+- Added podcast 'Binnabánnaš & Ujujju' (`binnabnna_ujujju`)  
+- Added podcast 'Spør for en venn' (`spoer_for_en_venn`)  
 ### 2024-12-14  
 - Podcast 'Labyrint om natten' is considered obsolete and will be ignored in the future (`labyrint_om_natten`)  
 ### 2024-12-13  
