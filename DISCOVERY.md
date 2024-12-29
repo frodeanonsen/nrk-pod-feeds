@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2024-12-29  
+- Updated podcast 'Debatten' (`debatten`)  
 ### 2024-12-20  
 - Added podcast 'Bibelen' (`bibelen`)  
 - Added podcast 'Binnabánnaš & Ujujju' (`binnabnna_ujujju`)  
