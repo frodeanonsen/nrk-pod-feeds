@@ -1530,6 +1530,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "vittig",
+    "title": "De 10 siste fra Vittig",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "westworld-podden",
     "title": "De 10 siste fra Westworld-podden",
     "season": null,
