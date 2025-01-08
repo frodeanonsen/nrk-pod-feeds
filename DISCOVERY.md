@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-01-08  
+- Updated podcast 'Debatten' (`debatten`)  
 ### 2025-01-06  
 - Added podcast 'Vittig' (`vittig`)  
 ### 2025-01-04  
