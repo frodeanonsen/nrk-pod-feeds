@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2025-01-11  
+- Updated podcast 'Hele historien' (`hele_historien`)  
+- Added podcast 'Monsens univers' (`monsens_univers`)  
 ### 2025-01-08  
 - Updated podcast 'Debatten' (`debatten`)  
 ### 2025-01-06  
