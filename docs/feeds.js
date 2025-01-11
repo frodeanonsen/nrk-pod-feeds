@@ -431,7 +431,7 @@ const feeds = [
     "id": "hele_historien",
     "title": "De 10 siste fra Hele historien",
     "season": "LATEST_SEASON",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "historiske_kjendiser",
@@ -834,6 +834,12 @@ const feeds = [
     "enabled": false,
     "ignore": true,
     "hidden": true
+  },
+  {
+    "id": "monsens_univers",
+    "title": "De 10 siste fra Monsens univers",
+    "season": null,
+    "enabled": true
   },
   {
     "id": "museum",
