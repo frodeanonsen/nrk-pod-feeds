@@ -199,7 +199,9 @@ const feeds = [
     "id": "dlla_ja_dalloj",
     "title": "De 10 siste fra Dálla ja dalloj",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "doemt",
@@ -431,7 +433,7 @@ const feeds = [
     "id": "hele_historien",
     "title": "De 10 siste fra Hele historien",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "historiske_kjendiser",
