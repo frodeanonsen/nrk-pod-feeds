@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-01-28  
+- Added podcast 'Misforstå meg rett' (`misforstaa_meg_rett`)  
 ### 2025-01-23  
 - Podcast 'Dálla ja dalloj' is considered obsolete and will be ignored in the future (`dlla_ja_dalloj`)  
 - Updated podcast 'Hele historien' (`hele_historien`)  
