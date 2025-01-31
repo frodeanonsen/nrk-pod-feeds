@@ -49,7 +49,7 @@ const feeds = [
     "id": "arena",
     "title": "De 10 siste fra Arena",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "baade_erlend_og_steinar_",
@@ -719,7 +719,7 @@ const feeds = [
     "id": "luois_luohti",
     "title": "De 10 siste fra Luođis luohtái",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "lyden_av_17_mai",
