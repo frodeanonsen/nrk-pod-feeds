@@ -1204,6 +1204,12 @@ const feeds = [
     "hidden": true
   },
   {
+    "id": "siesta",
+    "title": "De 10 siste fra Siesta",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "sjakksnakk",
     "title": "De 10 siste fra Sjakksnakk",
     "season": null,
