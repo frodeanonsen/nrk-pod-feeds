@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-03-11  
+- Added podcast 'Siesta' (`siesta`)  
 ### 2025-03-05  
 - Updated podcast 'Historiske kjendiser' (`historiske_kjendiser`)  
 ### 2025-03-03  
