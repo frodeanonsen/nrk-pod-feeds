@@ -1,4 +1,9 @@
 # Podcast Discovery Changelog  
+### 2025-03-22  
+- Podcast 'Dømt' is considered obsolete and will be ignored in the future (`doemt`)  
+- Podcast 'Rød løype' is considered obsolete and will be ignored in the future (`roed_loeype`)  
+- Podcast 'Supertrøtt' is considered obsolete and will be ignored in the future (`supertroett`)  
+- Podcast 'Øyeblikket' is considered obsolete and will be ignored in the future (`yeblikket`)  
 ### 2025-03-17  
 - Updated podcast 'Monsens univers' (`monsens_univers`)  
 ### 2025-03-11  
