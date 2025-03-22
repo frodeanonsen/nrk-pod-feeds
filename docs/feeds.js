@@ -207,7 +207,9 @@ const feeds = [
     "id": "doemt",
     "title": "De 10 siste fra Dømt",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "drivkraft",
@@ -1153,7 +1155,9 @@ const feeds = [
     "id": "roed_loeype",
     "title": "De 10 siste fra Rød løype",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "roeverradion_i_nrk_p2",
@@ -1361,7 +1365,9 @@ const feeds = [
     "id": "supertroett",
     "title": "De 10 siste fra Supertrøtt",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   },
   {
     "id": "tazte_priv",
@@ -1595,6 +1601,8 @@ const feeds = [
     "id": "yeblikket",
     "title": "De 10 siste fra Øyeblikket",
     "season": null,
-    "enabled": false
+    "enabled": false,
+    "ignore": true,
+    "hidden": true
   }
 ]
