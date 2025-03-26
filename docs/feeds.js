@@ -704,6 +704,12 @@ const feeds = [
     "enabled": true
   },
   {
+    "id": "lev_vel",
+    "title": "De 10 siste fra Lev vel",
+    "season": null,
+    "enabled": true
+  },
+  {
     "id": "lindmo_og_co",
     "title": "De 10 siste fra Lindmo og Co",
     "season": null,
