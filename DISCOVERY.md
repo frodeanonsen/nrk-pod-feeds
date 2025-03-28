@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2025-03-28  
+- Updated podcast 'Nødsamtaler' (`noedsamtaler`)  
+- Updated podcast 'Utakt' (`utakt`)  
 ### 2025-03-26  
 - Added podcast 'Lev vel' (`lev_vel`)  
 ### 2025-03-23  
