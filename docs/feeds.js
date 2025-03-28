@@ -919,7 +919,7 @@ const feeds = [
     "id": "noedsamtaler",
     "title": "De 10 siste fra Nødsamtaler",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "nokke_for_seg_sjoel",
@@ -1521,7 +1521,7 @@ const feeds = [
     "id": "utakt",
     "title": "De 10 siste fra Utakt",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "valg",
