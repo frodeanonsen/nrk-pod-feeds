@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2025-04-03  
+- Updated podcast 'Heia Fotball' (`heia_fotball`)  
+- Podcast 'Hvordan møttes dere? ' is considered obsolete and will be ignored in the future (`hvordan_moettes_dere_`)  
 ### 2025-03-29  
 - Added podcast 'Ding-dong, du er død!' (`ding_dong_du_er_doed`)  
 ### 2025-03-28  
