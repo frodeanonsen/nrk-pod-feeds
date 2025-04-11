@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-04-11  
+- Updated podcast 'Fantus og lydene' (`fantus_og_lydene`)  
 ### 2025-04-04  
 - Updated podcast 'Heia Fotball' (`heia_fotball`)  
 ### 2025-04-03  
