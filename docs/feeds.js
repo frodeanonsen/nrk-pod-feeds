@@ -303,7 +303,7 @@ const feeds = [
     "id": "fantus_og_lydene",
     "title": "De 10 siste fra Fantus og lydene",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "feriestemning",
