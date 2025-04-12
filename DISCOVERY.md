@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2025-04-12  
+- Added podcast 'Musikk fra NRK Super' (`musikk_fra_nrk_super`)  
 ### 2025-04-11  
 - Updated podcast 'Fantus og lydene' (`fantus_og_lydene`)  
 ### 2025-04-04  
